@@ -1,0 +1,550 @@
+,pricestr,area,subarea,name,condition,cylinders,drive,fuel,odometer,paintcolor,size,transmission,type,dealer,price,lnprice,year,age,lnodometer,LE,XLE,SE,Hybrid,area_list,old_new
+0,$4990,chicago,chicago city,2007 Toyota Camry Hybrid,good,4 cylinders,fwd,gas,11.6236,grey,,automatic,sedan,1,4990,8.5151911,2007,11,2.4530375,0,0,0,1,chicago,old
+1,$10625,chicago,chicago city,2009 Toyota Camry Hybrid,,4 cylinders,fwd,hybrid,4.3702,grey,,automatic,sedan,1,10625,9.2709646,2009,9,1.4748088,0,0,0,1,chicago,old
+2,$14850,chicago,chicago city,2015 Toyota_ Camry_,excellent,other,,gas,3.5721,,,automatic,sedan,1,14850,9.605754899999999,2015,3,1.2731537,0,0,0,0,chicago,new
+3,$15630,chicago,chicago city,2016 TOYOTA CAMRY,,,fwd,gas,1.3152,,,automatic,sedan,1,15630,9.656947099999998,2016,2,0.27398875,0,0,0,0,chicago,new
+4,$850,chicago,chicago city,1993 toyota camry,good,6 cylinders,fwd,gas,18.7,red,full-size,automatic,sedan,0,850,6.7452364000000005,1993,25,2.9285235000000003,0,0,0,0,chicago,old
+5,$1300,chicago,chicago city,1998 toyota camry,fair,4 cylinders,fwd,gas,16.82425880432129,grey,,automatic,,0,1300,7.1701198,1998,20,2.8228218999999997,0,0,0,0,chicago,old
+6,$1600,chicago,chicago city,1998 toyota camry le,,,,gas,16.82425880432129,,,automatic,,0,1600,7.377758999999999,1998,20,2.8228218999999997,1,0,0,0,chicago,old
+7,$1500,chicago,chicago city,1998 Toyota Camry,,,,gas,16.82425880432129,,,automatic,,0,1500,7.3132205,1998,20,2.8228218999999997,0,0,0,0,chicago,old
+8,$1650,chicago,chicago city,1999 toyota camry,good,4 cylinders,fwd,gas,20.2,,,automatic,sedan,0,1650,7.4085307,1999,19,3.0056827,0,0,0,0,chicago,old
+9,$2295,chicago,chicago city,2000 toyota camry le,excellent,4 cylinders,fwd,gas,10.7,white,mid-size,automatic,sedan,0,2295,7.7384882,2000,18,2.3702438,1,0,0,0,chicago,old
+10,$1650,chicago,chicago city,2002 toyota camry solara,,6 cylinders,fwd,gas,16.0,black,,automatic,,0,1650,7.4085307,2002,16,2.7725887000000005,0,0,0,0,chicago,old
+11,$3500,chicago,chicago city,2002 toyota camry,,,,gas,14.32672119140625,,,automatic,,0,3500,8.1605186,2002,16,2.6621262999999997,0,0,0,0,chicago,old
+12,$1100,chicago,chicago city,2003 Toyota CAMRY XLE,,,,gas,14.08167171478272,white,,automatic,,0,1100,7.0030656,2003,15,2.6448741,0,1,0,0,chicago,old
+13,$3800,chicago,chicago city,2003 toyota camry,,4 cylinders,,gas,11.9,,,automatic,,0,3800,8.2427559,2003,15,2.4765384,0,0,0,0,chicago,old
+14,$2950,chicago,chicago city,2004 Toyota Camry XLE,excellent,4 cylinders,fwd,gas,16.7,,,automatic,,0,2950,7.9895606,2004,14,2.8154087000000003,0,1,0,0,chicago,old
+15,$4200,chicago,chicago city,2005 toyota camry LE,excellent,6 cylinders,4wd,gas,12.0451,grey,full-size,automatic,sedan,0,4200,8.3428402,2005,13,2.488658,1,0,0,0,chicago,old
+16,$5799,chicago,chicago city,2007 Toyota Camry Hybrid,good,4 cylinders,fwd,hybrid,15.9,silver,,automatic,sedan,0,5799,8.6654406,2007,11,2.7663189999999998,0,0,0,1,chicago,old
+17,$4500,chicago,chicago city,2007 toyota camry,good,4 cylinders,fwd,gas,11.626930236816412,silver,full-size,automatic,sedan,0,4500,8.4118328,2007,11,2.4533241,0,0,0,0,chicago,old
+18,$4000,chicago,chicago city,2007 Toyota camry,,,,gas,11.626930236816412,,,automatic,,0,4000,8.294049300000001,2007,11,2.4533241,0,0,0,0,chicago,old
+19,$6000,chicago,chicago city,2007 Toyota Camry SE,excellent,4 cylinders,fwd,gas,10.2,grey,mid-size,automatic,,0,6000,8.6995144,2007,11,2.3223877,0,0,1,0,chicago,old
+20,$5999,chicago,chicago city,2007 toyota camry xle,,,,gas,11.626930236816412,,,automatic,,0,5999,8.6993484,2007,11,2.4533241,0,1,0,0,chicago,old
+21,$7700,chicago,chicago city,2008 toyota camry,,4 cylinders,fwd,gas,6.58,,,automatic,,0,7700,8.948975599999999,2008,10,1.8840348000000002,0,0,0,0,chicago,old
+22,$7200,chicago,chicago city,2009 toyota camry se 4dr sedan,excellent,4 cylinders,fwd,gas,11.33,grey,mid-size,automatic,sedan,0,7200,8.8818359,2009,9,2.427454,0,0,1,0,chicago,old
+23,$6400,chicago,chicago city,2009 toyota camry xle,excellent,,,gas,16.45036315917969,,,automatic,,0,6400,8.7640533,2009,9,2.8003476000000003,0,1,0,0,chicago,old
+24,$2900,chicago,chicago city,2010 toyota camry hybrid,,,,hybrid,30.0,,,automatic,,0,2900,7.972466000000001,2010,8,3.4011974,0,0,0,1,chicago,old
+25,$2000,chicago,chicago city,2010 toyota camry le,,,,gas,14.663999557495119,,,automatic,,0,2000,7.6009025999999995,2010,8,2.6853955000000003,1,0,0,0,chicago,old
+26,$7000,chicago,chicago city,2013 toyota camry,excellent,4 cylinders,,gas,21.3,white,compact,automatic,sedan,0,7000,8.8536654,2013,5,3.058707,0,0,0,0,chicago,new
+27,$14900,chicago,chicago city,2014 Toyota Camry XLE,like new,4 cylinders,fwd,gas,4.1539,silver,mid-size,automatic,sedan,0,14900,9.6091166,2014,4,1.4240476999999998,0,1,0,0,chicago,new
+28,$2000,chicago,chicago city,2009 Toyota Camry,like new,6 cylinders,fwd,gas,16.45036315917969,,,automatic,sedan,0,2000,7.6009025999999995,2009,9,2.8003476000000003,0,0,0,0,chicago,old
+29,$3030,chicago,chicago city,2010 toyota camry xle,excellent,6 cylinders,fwd,gas,14.663999557495119,black,full-size,automatic,sedan,0,3030,8.0163183,2010,8,2.6853955000000003,0,1,0,0,chicago,old
+30,$3100,chicago,chicago city,2004 Toyota Camry,excellent,4 cylinders,,gas,13.0756,grey,,automatic,sedan,0,3100,8.0391569,2004,14,2.5707478999999998,0,0,0,0,chicago,old
+31,$15490,chicago,chicago city,2016 Toyota Camry  LE    2016,new,4 cylinders,fwd,gas,4.8192,white,,automatic,,0,15490,9.647950199999999,2016,2,1.572608,1,0,0,0,chicago,new
+32,$3600,chicago,chicago city,2002 toyota camry le,like new,6 cylinders,,gas,12.1,grey,,automatic,sedan,0,3600,8.1886892,2002,16,2.4932055,1,0,0,0,chicago,old
+33,$3750,chicago,chicago N,2002 toyota camry le 4cyl,good,4 cylinders,fwd,gas,17.3906,blue,mid-size,automatic,sedan,0,3750,8.2295113,2002,16,2.8559299,1,0,0,0,chicago,old
+34,$4400,chicago,chicago N,2005 toyota camry,good,4 cylinders,fwd,gas,12.3,,,automatic,sedan,0,4400,8.3893595,2005,13,2.5095992000000003,0,0,0,0,chicago,old
+35,$6300,chicago,chicago N,2011 toyota camry se 4dr sedan,excellent,4 cylinders,fwd,gas,15.6,black,full-size,automatic,sedan,0,6300,8.748305300000002,2011,7,2.7472708,0,0,1,0,chicago,new
+36,$1700,chicago,chicago N,1998 Toyota Camry LE,good,,,gas,17.5626,brown,mid-size,automatic,sedan,0,1700,7.4383836,1998,20,2.8657715,1,0,0,0,chicago,old
+37,$8955,chicago,chicago suburbs,2009 Toyota Camry Hybrid,,4 cylinders,fwd,hybrid,8.1388,white,mid-size,automatic,sedan,1,8955,9.099967,2009,9,2.0966427,0,0,0,1,chicago,old
+38,$850,chicago,chicago suburbs,1997 Toyota Camry,,,,gas,18.7007999420166,,,automatic,,0,850,6.7452364000000005,1997,21,2.9285662,0,0,0,0,chicago,old
+39,$2000,chicago,chicago suburbs,2000 toyota camry,good,4 cylinders,fwd,gas,20.2,,full-size,automatic,sedan,0,2000,7.6009025999999995,2000,18,3.0056827,0,0,0,0,chicago,old
+40,$2250,chicago,chicago suburbs,2001 toyota camry,like new,,,gas,16.4,,,automatic,,0,2250,7.7186856,2001,17,2.7972813,0,0,0,0,chicago,old
+41,$2500,chicago,chicago suburbs,2006 Toyota Camry Solara,good,4 cylinders,fwd,gas,18.5,blue,mid-size,automatic,coupe,0,2500,7.8240460999999994,2006,12,2.9177706000000003,0,0,0,0,chicago,old
+42,$7400,chicago,chicago suburbs,2008 toyota camry hybrid,,,,gas,10.4841,,,automatic,,0,7400,8.909235,2008,10,2.3498597,0,0,0,1,chicago,old
+43,$7500,chicago,chicago suburbs,2010 toyota camry le,excellent,4 cylinders,fwd,gas,14.663999557495119,silver,mid-size,automatic,sedan,0,7500,8.922658,2010,8,2.6853955000000003,1,0,0,0,chicago,old
+44,$10590,chicago,chicago suburbs,2012 TOYOTA CAMRY,good,4 cylinders,fwd,gas,7.5294,red,,automatic,,0,10590,9.2676659,2012,6,2.0188153000000004,0,0,0,0,chicago,new
+45,$2800,chicago,chicago suburbs,2002 toyota camry Le,excellent,4 cylinders,fwd,gas,10.5,silver,,automatic,sedan,0,2800,7.9373746,2002,16,2.3513752999999995,0,0,0,0,chicago,old
+46,$2800,chicago,chicago suburbs,2002 toyota camry,excellent,4 cylinders,fwd,gas,10.5,silver,,automatic,,0,2800,7.9373746,2002,16,2.3513752999999995,0,0,0,0,chicago,old
+47,$1000,chicago,chicago suburbs,1995 Toyota Camry LE,fair,4 cylinders,fwd,gas,18.242,,,automatic,sedan,0,1000,6.9077554,1995,23,2.9037266,1,0,0,0,chicago,old
+48,$600,chicago,chicago suburbs,1997 toyota camry le,fair,4 cylinders,fwd,gas,17.7,grey,,automatic,sedan,0,600,6.3969297,1997,21,2.8735647,1,0,0,0,chicago,old
+49,$1850,chicago,chicago suburbs,1998 Toyota Camry LX,excellent,6 cylinders,fwd,gas,15.88,brown,compact,automatic,sedan,0,1850,7.5229411,1998,20,2.7650604,0,0,0,0,chicago,old
+50,$1850,chicago,chicago suburbs,1998 Toyota Camry LX,good,6 cylinders,fwd,gas,15.88,brown,compact,automatic,sedan,0,1850,7.5229411,1998,20,2.7650604,0,0,0,0,chicago,old
+51,$6500,chicago,chicago suburbs,2008 toyota camry le,excellent,4 cylinders,rwd,gas,10.9,black,full-size,automatic,sedan,0,6500,8.7795572,2008,10,2.3887627,1,0,0,0,chicago,old
+52,$2400,chicago,indiana NW,2005 Toyota Camry XLE,good,6 cylinders,fwd,gas,16.5,silver,mid-size,automatic,,0,2400,7.783224099999999,2005,13,2.8033605,0,1,0,0,chicago,old
+53,$3950,chicago,indiana NW,2005 toyota camry le,good,4 cylinders,fwd,gas,15.8,grey,full-size,automatic,sedan,0,3950,8.2814713,2005,13,2.76001,1,0,0,0,chicago,old
+54,$3985,chicago,chicago S,1997 toyota camry,excellent,6 cylinders,4wd,gas,10.148,,,automatic,sedan,1,3985,8.2902927,1997,21,2.3172767000000003,0,0,0,0,chicago,old
+55,$2000,chicago,chicago S,1999 toyota camry,,,,gas,17.01991844177246,,,automatic,,0,2000,7.6009025999999995,1999,19,2.8343844,0,0,0,0,chicago,old
+56,$1400,chicago,chicago S,2000 toyota camry xle,excellent,6 cylinders,fwd,gas,16.7,black,compact,automatic,sedan,0,1400,7.244227400000001,2000,18,2.8154087000000003,0,1,0,0,chicago,old
+57,$3980,chicago,chicago S,2001 Toyota Camry,,,,gas,11.3159,,,automatic,,0,3980,8.2890368,2001,17,2.4262087,0,0,0,0,chicago,old
+58,$5900,chicago,chicago S,2009 toyota camry hybrid,good,,fwd,gas,20.7,blue,full-size,other,sedan,0,5900,8.682707800000001,2009,9,3.0301337000000004,0,0,0,1,chicago,old
+59,$6500,chicago,chicago S,2011 toyota camry,,,,gas,10.32304763793945,,,automatic,,0,6500,8.7795572,2011,7,2.334379,0,0,0,0,chicago,new
+60,$8900,chicago,chicago S,2008 toyota camry,,,,gas,12.54811191558838,red,,automatic,,0,8900,9.0938063,2008,10,2.5295701,0,0,0,0,chicago,old
+61,$2000,chicago,chicago S,1999 Toyota camry,,,,gas,17.01991844177246,,,automatic,,0,2000,7.6009025999999995,1999,19,2.8343844,0,0,0,0,chicago,old
+62,$2400,chicago,chicago W,2000 Toyota_ Camry_,excellent,4 cylinders,fwd,gas,16.6457,grey,mid-size,automatic,sedan,1,2400,7.783224099999999,2000,18,2.8121519,0,0,0,0,chicago,old
+63,$5999,chicago,chicago W,2009 toyota camry le,like new,4 cylinders,fwd,gas,13.2572,silver,full-size,automatic,sedan,1,5999,8.6993484,2009,9,2.5845408,1,0,0,0,chicago,old
+64,$9300,chicago,chicago W,2011 toyota camry xle,excellent,6 cylinders,fwd,gas,9.0653,green,full-size,automatic,sedan,1,9300,9.137769699999998,2011,7,2.2044539,0,1,0,0,chicago,new
+65,$11877,chicago,chicago W,2012 TOYOTA CAMRY HYBRID XLE,excellent,4 cylinders,fwd,hybrid,11.2707,white,mid-size,automatic,,1,11877,9.3823595,2012,6,2.4222064,0,1,0,1,chicago,new
+66,$10500,chicago,chicago W,2013 Toyota_ Camry_,excellent,4 cylinders,fwd,gas,6.2628,grey,mid-size,automatic,sedan,1,10500,9.2591305,2013,5,1.8346273999999998,0,0,0,0,chicago,new
+67,$12900,chicago,chicago W,2016 Toyota_ Camry_,excellent,4 cylinders,fwd,gas,5.2482,black,mid-size,automatic,sedan,1,12900,9.464983,2016,2,1.6578852,0,0,0,0,chicago,new
+68,$3300,chicago,chicago W,2004 Toyota camry,,,,gas,15.408045768737788,,,automatic,,0,3300,8.1016779,2004,14,2.7348897,0,0,0,0,chicago,old
+69,$4400,chicago,chicago W,2004 toyota camry le 4dr sedan,excellent,4 cylinders,fwd,gas,10.5,silver,mid-size,automatic,sedan,0,4400,8.3893595,2004,14,2.3513752999999995,1,0,1,0,chicago,old
+70,$2074,chicago,chicago W,2010 TOYOTA CAMRY,,,,gas,14.663999557495119,,,automatic,,0,2074,7.637234200000001,2010,8,2.6853955000000003,0,0,0,0,chicago,old
+71,$800,chicago,chicago W,2000 TOYOTA CAMRY,,4 cylinders,,gas,16.83345794677734,,,automatic,,0,800,6.6846118,2000,18,2.8233685,0,0,0,0,chicago,old
+72,$5985,chicago,chicago W,2002 Toyota Camry Solara,excellent,,,gas,7.7734,,,automatic,,0,5985,8.697011900000001,2002,16,2.0507076,0,0,0,0,chicago,old
+73,$5300,chicago,chicago W,2002 Toyota Camry XLE,excellent,4 cylinders,fwd,gas,13.8,silver,,automatic,sedan,0,5300,8.5754623,2002,16,2.6246686,0,1,0,0,chicago,old
+74,$2700,chicago,chicago W,2003 Toyota Camry,good,4 cylinders,fwd,gas,21.8,grey,,automatic,,0,2700,7.9010072000000005,2003,15,3.0819099,0,0,0,0,chicago,old
+75,$3600,chicago,chicago W,2004 toyota camry solara,good,6 cylinders,fwd,gas,16.8,red,compact,automatic,coupe,0,3600,8.1886892,2004,14,2.8213789,0,0,0,0,chicago,old
+76,$5250,chicago,chicago W,2008 toyota camry,excellent,4 cylinders,fwd,gas,17.7,grey,,automatic,sedan,0,5250,8.5659838,2008,10,2.8735647,0,0,0,0,chicago,old
+77,$6750,chicago,chicago W,2009 toyota camry,excellent,4 cylinders,fwd,gas,12.85,black,,automatic,sedan,0,6750,8.8172979,2009,9,2.5533438,0,0,0,0,chicago,old
+78,$3200,chicago,chicago W,2011 toyota camry hybrid,good,4 cylinders,fwd,hybrid,35.0,white,,automatic,sedan,0,3200,8.0709057,2011,7,3.5553482000000005,0,0,0,1,chicago,new
+79,$9995,chicago,chicago W,2012 toyota camry se 4dr sedan,excellent,4 cylinders,fwd,gas,10.5,white,full-size,automatic,sedan,0,9995,9.2098398,2012,6,2.3513752999999995,0,0,1,0,chicago,new
+80,$1300,chicago,chicago W,1994 Toyota Camry,,,,gas,13.8,,,automatic,,0,1300,7.1701198,1994,24,2.6246686,0,0,0,0,chicago,old
+81,$2071,chicago,chicago W,2010 TOYOTA CAMRY,,,,gas,14.663999557495119,,,automatic,,0,2071,7.635787,2010,8,2.6853955000000003,0,0,0,0,chicago,old
+82,$1300,chicago,chicago W,1993 toyota camry,good,6 cylinders,fwd,gas,15.1,,,automatic,,0,1300,7.1701198,1993,25,2.7146947,0,0,0,0,chicago,old
+83,$2799,chicago,chicago S,1999 TOYOTA CAMRY,,4 cylinders,,gas,13.9745,white,,automatic,sedan,1,2799,7.9370174,1999,19,2.6372342,0,0,0,0,chicago,old
+84,$2800,chicago,chicago N,1997 Toyota Camry,,,,gas,18.7007999420166,,,automatic,,0,2800,7.9373746,1997,21,2.9285662,0,0,0,0,chicago,old
+85,$2200,chicago,chicago city,1993 Toyota Camry,,,,gas,21.91666603088379,,,automatic,,0,2200,7.6962128,1993,25,3.0872474,0,0,0,0,chicago,old
+86,$7250,chicago,chicago W,2009 toyota camry,excellent,4 cylinders,fwd,gas,12.85,black,,automatic,sedan,0,7250,8.888756800000001,2009,9,2.5533438,0,0,0,0,chicago,old
+87,$16900,chicago,indiana NW,2017 Toyota Camry SE,,,,gas,1.8728166818618768,,,automatic,,1,16900,9.735069300000001,2017,1,0.62744355,0,0,1,0,chicago,new
+88,$1600,chicago,indiana NW,1998 1998 TOYOTA CAMRY,,,,gas,16.82425880432129,,,automatic,,0,1600,7.377758999999999,1998,20,2.8228218999999997,0,0,0,0,chicago,old
+89,$9449,chicago,chicago W,2012 TOYOTA CAMRY,,,fwd,other,11.2143,black,,automatic,sedan,1,9449,9.153664599999999,2012,6,2.4171897999999996,0,0,0,0,chicago,new
+90,$2200,chicago,chicago W,2001 toyota camry,good,4 cylinders,fwd,gas,14.6,silver,mid-size,automatic,sedan,0,2200,7.6962128,2001,17,2.6810215,0,0,0,0,chicago,old
+91,$2700,chicago,chicago N,1993 Toyota Camry XLE V6,,,,gas,21.91666603088379,black,,automatic,sedan,0,2700,7.9010072000000005,1993,25,3.0872474,0,1,0,0,chicago,old
+92,$7700,chicago,chicago city,2008 toyota camry hybrid,,4 cylinders,fwd,gas,6.58,,,automatic,,0,7700,8.948975599999999,2008,10,1.8840348000000002,0,0,0,1,chicago,old
+93,$1600,chicago,chicago city,1998 toyota camry,,,,gas,16.82425880432129,,,automatic,,0,1600,7.377758999999999,1998,20,2.8228218999999997,0,0,0,0,chicago,old
+94,$10900,chicago,chicago suburbs,2007 TOYOTA CAMRY SOLARA,,,fwd,other,8.3804,,,automatic,convertible,1,10900,9.2965183,2007,11,2.1258957,0,0,0,0,chicago,old
+95,$1500,chicago,chicago city,2007 toyota camry,,6 cylinders,fwd,gas,11.626930236816412,grey,full-size,automatic,,0,1500,7.3132205,2007,11,2.4533241,0,0,0,0,chicago,old
+96,$3550,chicago,chicago N,2002 toyota camry le 4cyl,good,4 cylinders,fwd,gas,17.3906,blue,mid-size,automatic,sedan,0,3550,8.1747026,2002,16,2.8559299,1,0,0,0,chicago,old
+97,$3200,chicago,chicago city,2004 TOYOTA CAMRY LE,excellent,4 cylinders,fwd,gas,11.9,white,,automatic,sedan,0,3200,8.0709057,2004,14,2.4765384,1,0,0,0,chicago,old
+98,$3200,chicago,chicago W,2002 toyota camry,good,6 cylinders,fwd,gas,17.5,green,mid-size,automatic,sedan,0,3200,8.0709057,2002,16,2.8622009999999998,0,0,0,0,chicago,old
+99,$14000,chicago,chicago S,2015 toyota camry le,good,4 cylinders,fwd,gas,6.0215,grey,,automatic,,0,14000,9.546813,2015,3,1.7953363999999998,1,0,0,0,chicago,new
+100,$5800,chicago,indiana NW,2007 Toyota Camry,good,,,gas,13.0,,,automatic,,0,5800,8.6656132,2007,11,2.5649493,0,0,0,0,chicago,old
+101,$6929,chicago,chicago suburbs,2003 TOYOTA CAMRY LE,,,,gas,6.5756,,,automatic,,0,6929,8.8434706,2003,15,1.8833659,1,0,0,0,chicago,old
+102,$1900,chicago,chicago W,2000 toyota camry solara,,,,gas,16.83345794677734,,,automatic,,0,1900,7.549609200000001,2000,18,2.8233685,0,0,0,0,chicago,old
+103,$2700,chicago,chicago N,1993 Toyota Camry XLE V6,,,,gas,21.91666603088379,,,automatic,,0,2700,7.9010072000000005,1993,25,3.0872474,0,1,0,0,chicago,old
+104,$2200,chicago,chicago N,1993 Toyota Camry,,,,gas,21.91666603088379,,,automatic,,0,2200,7.6962128,1993,25,3.0872474,0,0,0,0,chicago,old
+105,$8300,chicago,indiana NW,2011 Toyota Camry,,,,gas,10.32304763793945,,,automatic,,0,8300,9.024010699999998,2011,7,2.334379,0,0,0,0,chicago,new
+106,$7700,chicago,chicago city,2008 Toyota camry,,,,gas,8.5,,,automatic,,0,7700,8.948975599999999,2008,10,2.1400661,0,0,0,0,chicago,old
+107,$8300,chicago,chicago city,2011 Toyota Camry,,,,gas,10.32304763793945,,,automatic,,0,8300,9.024010699999998,2011,7,2.334379,0,0,0,0,chicago,new
+108,$18495,chicago,chicago S,2017 toyota camry,excellent,4 cylinders,4wd,gas,0.2319,,,automatic,sedan,1,18495,9.8252554,2017,1,-1.461449,0,0,0,0,chicago,new
+109,$2069,chicago,chicago S,2010 TOYOTA CAMRY,,,,gas,14.663999557495119,,,automatic,,0,2069,7.6348205,2010,8,2.6853955000000003,0,0,0,0,chicago,old
+110,$4400,chicago,chicago N,2005 toyota camry,excellent,4 cylinders,fwd,gas,12.3,,full-size,automatic,sedan,0,4400,8.3893595,2005,13,2.5095992000000003,0,0,0,0,chicago,old
+111,$3900,chicago,chicago city,2004 Toyota Camry,good,4 cylinders,,gas,13.6559,black,,automatic,sedan,0,3900,8.2687321,2004,14,2.6141717,0,0,0,0,chicago,old
+112,$5500,chicago,chicago S,2008 toyota camry hybrid,like new,4 cylinders,,gas,25.7,black,,automatic,,0,5500,8.6125031,2008,10,3.246491,0,0,0,1,chicago,old
+113,$4500,chicago,chicago N,2002 toyota camry solara convertible,good,6 cylinders,,gas,10.3245,,,automatic,,0,4500,8.4118328,2002,16,2.3345196,0,0,0,0,chicago,old
+114,$4500,chicago,chicago S,2007 toyota camry solara,excellent,4 cylinders,fwd,gas,15.9,silver,,automatic,coupe,0,4500,8.4118328,2007,11,2.7663189999999998,0,0,0,0,chicago,old
+115,$2500,chicago,chicago suburbs,2005 toyota camry,fair,6 cylinders,4wd,gas,22.8,grey,full-size,automatic,sedan,0,2500,7.8240460999999994,2005,13,3.1267605,0,0,0,0,chicago,old
+116,$1500,chicago,chicago city,1998 toyota camry,,,,gas,16.82425880432129,,,automatic,,0,1500,7.3132205,1998,20,2.8228218999999997,0,0,0,0,chicago,old
+117,$14491,chicago,chicago W,2015 Toyota Camry,,4 cylinders,fwd,gas,4.96,white,,automatic,sedan,1,14491,9.5812826,2015,3,1.6014057,0,0,0,0,chicago,new
+118,$3700,chicago,indiana NW,2005 toyota camry le,good,4 cylinders,fwd,gas,15.8,grey,full-size,automatic,sedan,0,3700,8.216088300000001,2005,13,2.76001,1,0,0,0,chicago,old
+119,$1500,chicago,indiana NW,2004 Toyota camry,,,,gas,15.408045768737788,,,automatic,,0,1500,7.3132205,2004,14,2.7348897,0,0,0,0,chicago,old
+120,$1500,chicago,indiana NW,2001 toyota camry,fair,6 cylinders,fwd,gas,18.0,,full-size,automatic,,0,1500,7.3132205,2001,17,2.8903717999999996,0,0,0,0,chicago,old
+121,$6499,chicago,chicago suburbs,2009 Toyota Camry,,4 cylinders,fwd,gas,11.8068,black,mid-size,automatic,sedan,1,6499,8.7794037,2009,9,2.4686756,0,0,0,0,chicago,old
+122,$9995,chicago,chicago city,2007 toyota camry le,excellent,4 cylinders,fwd,gas,11.626930236816412,blue,mid-size,automatic,,1,9995,9.2098398,2007,11,2.4533241,1,0,0,0,chicago,old
+123,$11386,chicago,chicago suburbs,2012 Toyota Camry,,4 cylinders,fwd,gas,8.0504,silver,mid-size,automatic,sedan,1,11386,9.3401394,2012,6,2.0857217,0,0,0,0,chicago,new
+124,$13906,chicago,chicago W,2015 Toyota Camry,,4 cylinders,fwd,gas,6.1448,black,mid-size,automatic,sedan,1,13906,9.540075300000002,2015,3,1.8156061999999997,0,0,0,0,chicago,new
+125,$4950,chicago,chicago S,2006 toyota camry solara convertible,excellent,6 cylinders,fwd,gas,14.0,silver,mid-size,automatic,convertible,0,4950,8.507143,2006,12,2.6390574,0,0,0,0,chicago,old
+126,$5390,chicago,chicago W,2007 toyota camry le,excellent,4 cylinders,fwd,gas,14.55,yellow,,automatic,sedan,0,5390,8.592300400000001,2007,11,2.6775911,1,0,0,0,chicago,old
+127,$1800,chicago,chicago city,1998 toyota camry,good,,fwd,gas,16.82425880432129,green,full-size,automatic,sedan,1,1800,7.4955419999999995,1998,20,2.8228218999999997,0,0,0,0,chicago,old
+128,$6995,chicago,chicago suburbs,2009 Toyota Camry SE,good,4 cylinders,fwd,gas,12.4,red,mid-size,automatic,sedan,0,6995,8.852951,2009,9,2.5176964,0,0,1,0,chicago,old
+129,$500,chicago,chicago city,2011 toyota camry xle,,,,gas,10.32304763793945,,,automatic,,1,500,6.2146082,2011,7,2.334379,0,1,0,0,chicago,new
+130,$6000,chicago,chicago city,2005 toyota camry le,good,4 cylinders,fwd,gas,12.1,silver,full-size,automatic,sedan,0,6000,8.6995144,2005,13,2.4932055,1,0,0,0,chicago,old
+131,$13995,chicago,chicago S,2014 toyota camry,excellent,4 cylinders,4wd,gas,3.9298,white,,automatic,sedan,1,13995,9.546455400000001,2014,4,1.3685886,0,0,0,0,chicago,new
+132,$4900,chicago,chicago city,2008 Toyota_ Camry_ Solara_,excellent,6 cylinders,fwd,gas,15.5386,black,sub-compact,automatic,convertible,1,4900,8.496990199999999,2008,10,2.7433271,0,0,0,0,chicago,old
+133,$6490,chicago,chicago W,2007 Toyota Camry,excellent,4 cylinders,fwd,gas,11.5515,silver,mid-size,automatic,sedan,1,6490,8.778018,2007,11,2.4468153,0,0,0,0,chicago,old
+134,$12500,chicago,chicago city,2013 Toyota_ Camry_,excellent,4 cylinders,fwd,gas,6.3,silver,mid-size,automatic,sedan,1,12500,9.4334841,2013,5,1.8405496,0,0,0,0,chicago,new
+135,$5500,chicago,chicago suburbs,2004 toyota camry,,,,gas,13.4333,,,automatic,sedan,1,5500,8.6125031,2004,14,2.5977366,0,0,0,0,chicago,old
+136,$6000,chicago,chicago suburbs,2008 toyota camry le,excellent,4 cylinders,rwd,gas,10.9,black,full-size,automatic,sedan,0,6000,8.6995144,2008,10,2.3887627,1,0,0,0,chicago,old
+137,$12000,chicago,chicago S,2013 toyota camry se,good,4 cylinders,,gas,7.6,silver,,automatic,,0,12000,9.392662,2013,5,2.0281482,0,0,1,0,chicago,new
+138,$3499,chicago,chicago suburbs,2002 toyota camry,good,6 cylinders,fwd,gas,16.2,red,,automatic,convertible,0,3499,8.1602325,2002,16,2.7850113,0,0,0,0,chicago,old
+139,$1000,chicago,chicago suburbs,1999 toyota camry le,good,6 cylinders,,gas,16.3,,,automatic,,0,1000,6.9077554,1999,19,2.7911651,1,0,0,0,chicago,old
+140,$3500,chicago,chicago N,2002 toyota camry le 4cyl,good,4 cylinders,fwd,gas,17.3906,blue,mid-size,automatic,sedan,0,3500,8.1605186,2002,16,2.8559299,1,0,0,0,chicago,old
+141,$1999,chicago,chicago suburbs,2009 toyota camry hybrid,fair,4 cylinders,fwd,hybrid,23.0,black,full-size,automatic,sedan,0,1999,7.6004024,2009,9,3.1354942,0,0,0,1,chicago,old
+142,$3900,chicago,chicago city,2002 2002 Toyota camry,,,,gas,14.32672119140625,,,automatic,,0,3900,8.2687321,2002,16,2.6621262999999997,0,0,0,0,chicago,old
+143,$2800,chicago,chicago S,2003 toyota camry,excellent,4 cylinders,fwd,gas,17.0,grey,mid-size,automatic,,0,2800,7.9373746,2003,15,2.8332132999999997,0,0,0,0,chicago,old
+144,$5800,chicago,chicago W,2010 toyota camry le,excellent,4 cylinders,fwd,gas,14.4,,,automatic,,0,5800,8.6656132,2010,8,2.6672282000000003,1,0,0,0,chicago,old
+145,$3300,chicago,chicago W,2004 Toyota Camry le,like new,4 cylinders,fwd,gas,12.7,blue,mid-size,automatic,sedan,0,3300,8.1016779,2004,14,2.5416019,1,0,0,0,chicago,old
+146,$1099,chicago,chicago N,2001 Toyota Camry,good,4 cylinders,fwd,gas,13.9,silver,,automatic,,0,1099,7.002155800000001,2001,17,2.6318889,0,0,0,0,chicago,old
+147,$2499,chicago,chicago suburbs,2001 Toyota Camry.,good,4 cylinders,fwd,gas,11.5,silver,full-size,automatic,sedan,0,2499,7.8236460999999995,2001,17,2.4423470000000003,0,0,0,0,chicago,old
+148,$7999,chicago,chicago city,2010 TOYOTA CAMRY,,,fwd,gas,8.14,blue,,automatic,sedan,1,7999,8.987072,2010,8,2.0967901,0,0,0,0,chicago,old
+149,$500,chicago,chicago city,2014 TOYOTA CAMRY LE 2.4,excellent,6 cylinders,fwd,gas,4.791686534881592,black,mid-size,automatic,truck,1,500,6.2146082,2014,4,1.5668825000000002,1,0,0,0,chicago,new
+150,$206,chicago,chicago city,2015 Toyota Camry BAD CREDIT OK,,4 cylinders,,gas,4.963212966918945,grey,,automatic,sedan,1,206,5.3278761,2015,3,1.6020533000000001,0,0,0,0,chicago,new
+151,$3900,chicago,chicago city,2002 Toyota Camry LE Sedan,excellent,4 cylinders,fwd,gas,16.9435,grey,mid-size,automatic,sedan,0,3900,8.2687321,2002,16,2.8298843,1,0,0,0,chicago,old
+152,$5495,chicago,chicago N,2005 Toyota Camry,excellent,4 cylinders,fwd,gas,14.8987,red,mid-size,automatic,sedan,1,5495,8.611594199999999,2005,13,2.7012739,0,0,0,0,chicago,old
+153,$2995,chicago,chicago S,2003 Toyota Camry LE,,,fwd,gas,16.5533,silver,,automatic,sedan,1,2995,8.0046997,2003,15,2.8065856,1,0,0,0,chicago,old
+154,$2700,chicago,chicago city,2003 Toyota Camry,,4 cylinders,,gas,14.08167171478272,,,automatic,,0,2700,7.9010072000000005,2003,15,2.6448741,0,0,0,0,chicago,old
+155,$5249,chicago,chicago suburbs,1999 toyota camry,excellent,6 cylinders,,gas,11.4,,,automatic,sedan,0,5249,8.565793,1999,19,2.4336132999999998,0,0,0,0,chicago,old
+156,$12995,chicago,chicago city,2015 TOYOTA CAMRY,,,fwd,gas,2.5929,black,,automatic,sedan,1,12995,9.4723196,2015,3,0.95277697,0,0,0,0,chicago,new
+157,$3000,chicago,chicago city,2002 toyota camry solara,excellent,6 cylinders,,gas,15.0,blue,compact,automatic,coupe,0,3000,8.0063677,2002,16,2.7080502999999996,0,0,0,0,chicago,old
+158,$16257,chicago,chicago suburbs,2015 Toyota Camry,,4 cylinders,fwd,gas,1.5955,silver,mid-size,automatic,sedan,1,16257,9.6962786,2015,3,0.46718717,0,0,0,0,chicago,new
+159,$15910,chicago,chicago city,2015 Toyota Camry,,4 cylinders,fwd,gas,3.1078,silver,,automatic,sedan,1,15910,9.674703599999999,2015,3,1.1339151,0,0,0,0,chicago,new
+160,$9700,chicago,,2011 Toyota Camry,,4 cylinders,fwd,gas,6.4628,black,,automatic,sedan,1,9700,9.1798811,2011,7,1.8660626,0,0,0,0,chicago,new
+161,$11995,chicago,chicago city,2015 TOYOTA CAMRY,,,fwd,gas,7.1225,black,,automatic,sedan,1,11995,9.3922453,2015,3,1.9632587,0,0,0,0,chicago,new
+162,$14991,chicago,chicago city,2014 Toyota Camry,,4 cylinders,fwd,gas,4.7536,silver,mid-size,automatic,sedan,1,14991,9.6152058,2014,4,1.5589023000000002,0,0,0,0,chicago,new
+163,$15966,chicago,chicago suburbs,2015 Toyota Camry,,4 cylinders,fwd,gas,1.6867,grey,mid-size,automatic,sedan,1,15966,9.6782169,2015,3,0.52277398,0,0,0,0,chicago,new
+164,$6700,chicago,chicago suburbs,2007 Toyota Camry se,excellent,4 cylinders,fwd,gas,13.1,silver,mid-size,automatic,sedan,0,6700,8.8098631,2007,11,2.5726123,0,0,1,0,chicago,old
+165,$6997,chicago,chicago suburbs,2008 Toyota Camry Hybrid,,4 cylinders,fwd,hybrid,13.6864,custom,mid-size,automatic,sedan,1,6997,8.853237199999999,2008,10,2.6164026000000002,0,0,0,1,chicago,old
+166,$985,chicago,chicago city,1995 toyota camry,like new,4 cylinders,,gas,20.04253387451172,,,automatic,,0,985,6.892641499999999,1995,23,2.9978566000000004,0,0,0,0,chicago,old
+167,$1200,chicago,chicago city,1999 toyota camry,excellent,4 cylinders,,gas,25.3,,full-size,automatic,,0,1200,7.0900769,1999,19,3.2308044,0,0,0,0,chicago,old
+168,$7900,chicago,chicago N,2009 toyota camry,excellent,4 cylinders,fwd,gas,118.0,red,full-size,automatic,,0,7900,8.974618,2009,9,4.7706847,0,0,0,0,chicago,old
+169,$6500,chicago,chicago city,2007 Toyota Camry,good,4 cylinders,,gas,11.626930236816412,,,automatic,,0,6500,8.7795572,2007,11,2.4533241,0,0,0,0,chicago,old
+170,$16489,chicago,chicago W,2014 toyota camry,like new,4 cylinders,fwd,gas,2.4691,grey,full-size,automatic,sedan,0,16489,9.7104492,2014,4,0.90385371,0,0,0,0,chicago,new
+171,$3950,chicago,chicago N,2007 toyota camry hybrid,excellent,4 cylinders,fwd,hybrid,18.23,blue,mid-size,automatic,sedan,1,3950,8.2814713,2007,11,2.9030685000000003,0,0,0,1,chicago,old
+172,$14000,chicago,chicago city,2013 Toyota Camry,good,4 cylinders,,gas,5.0608,red,,automatic,,0,14000,9.546813,2013,5,1.6215246,0,0,0,0,chicago,new
+173,$4000,chicago,chicago W,2002 toyota camry le 4dr sedan,good,6 cylinders,fwd,gas,15.9282,red,,automatic,sedan,0,4000,8.294049300000001,2002,16,2.7680912,1,0,1,0,chicago,old
+174,$1695,chicago,chicago W,2000 toyota camry le,good,4 cylinders,fwd,gas,18.3973,,,automatic,sedan,0,1695,7.4354382,2000,18,2.912204,1,0,0,0,chicago,old
+175,$985,chicago,chicago city,1995 toyota camry,like new,,,gas,20.04253387451172,,,automatic,,0,985,6.892641499999999,1995,23,2.9978566000000004,0,0,0,0,chicago,old
+176,$14487,chicago,chicago suburbs,2014 Toyota Camry,excellent,6 cylinders,fwd,gas,4.902,silver,,automatic,sedan,1,14487,9.581007000000001,2014,4,1.5896431999999998,0,0,0,0,chicago,new
+177,$2100,chicago,chicago city,1998 toyota camry,,4 cylinders,fwd,gas,16.82425880432129,white,,automatic,,0,2100,7.6496925000000005,1998,20,2.8228218999999997,0,0,0,0,chicago,old
+178,$14388,chicago,chicago suburbs,2012 Toyota Camry,,4 cylinders,fwd,gas,5.7619,custom,mid-size,automatic,sedan,1,14388,9.574150099999999,2012,6,1.7512672999999999,0,0,0,0,chicago,new
+179,$14590,chicago,chicago city,2016 Toyota Camry  LE    2016,new,4 cylinders,fwd,gas,4.8192,white,,automatic,,0,14590,9.5880919,2016,2,1.572608,1,0,0,0,chicago,new
+180,$16499,chicago,chicago city,2017 TOYOTA CAMRY,,,fwd,gas,2.9439,black,,automatic,sedan,1,16499,9.711054800000001,2017,1,1.0797353,0,0,0,0,chicago,new
+181,$6300,chicago,chicago suburbs,2006 Toyota_ Camry_,excellent,4 cylinders,fwd,gas,10.0,white,mid-size,automatic,sedan,1,6300,8.748305300000002,2006,12,2.3025851000000004,0,0,0,0,chicago,old
+182,$11700,chicago,chicago suburbs,2014 Toyota Camry SE,good,4 cylinders,fwd,gas,4.3,grey,,automatic,sedan,0,11700,9.3673439,2014,4,1.4586151000000003,0,0,1,0,chicago,new
+183,$14388,chicago,chicago N,2012 Toyota Camry,,4 cylinders,fwd,gas,5.7619,custom,mid-size,automatic,sedan,1,14388,9.574150099999999,2012,6,1.7512672999999999,0,0,0,0,chicago,new
+184,$1600,chicago,chicago city,2001 Toyota Camry,,,,gas,16.201469421386722,,,automatic,,0,1600,7.377758999999999,2001,17,2.7851019,0,0,0,0,chicago,old
+185,$12322,chicago,chicago city,2015 TOYOTA CAMRY,,,fwd,gas,6.0499,,,automatic,sedan,1,12322,9.4191418,2015,3,1.8000418000000002,0,0,0,0,chicago,new
+186,$3000,chicago,chicago city,2002 Toyota Camry,,4 cylinders,,gas,16.84,,,automatic,,0,3000,8.0063677,2002,16,2.8237569,0,0,0,0,chicago,old
+187,$7499,chicago,chicago suburbs,2009 Toyota Camry,,4 cylinders,,gas,13.04,red,,automatic,sedan,1,7499,8.9225254,2009,9,2.5680215,0,0,0,0,chicago,old
+188,$8800,chicago,chicago suburbs,2005 toyota camry le,like new,4 cylinders,fwd,gas,6.4339,grey,mid-size,automatic,sedan,0,8800,9.082507099999999,2005,13,1.8615808,1,0,0,0,chicago,old
+189,$5577,chicago,chicago W,2009 toyota camry hybrid,,,,gas,16.45036315917969,,,automatic,,1,5577,8.6264067,2009,9,2.8003476000000003,0,0,0,1,chicago,old
+190,$2500,chicago,chicago N,2005 Toyota Camry V6,excellent,6 cylinders,fwd,gas,20.12,silver,mid-size,automatic,sedan,1,2500,7.8240460999999994,2005,13,3.0017142000000003,0,0,0,0,chicago,old
+191,$4800,chicago,chicago suburbs,2007 Toyota Camry,,4 cylinders,fwd,gas,17.9758,silver,,automatic,sedan,1,4800,8.476370800000002,2007,11,2.8890264,0,0,0,0,chicago,old
+192,$2995,chicago,chicago W,2001 TOYOTA CAMRY,,,fwd,other,15.5447,green,,automatic,sedan,1,2995,8.0046997,2001,17,2.7437197999999996,0,0,0,0,chicago,old
+193,$8995,chicago,chicago suburbs,2011 Toyota_ Camry_,excellent,4 cylinders,fwd,gas,10.0,grey,mid-size,automatic,sedan,1,8995,9.1044245,2011,7,2.3025851000000004,0,0,0,0,chicago,new
+194,$14990,chicago,chicago W,2015 Toyota Camry,,4 cylinders,fwd,gas,5.5396,black,,automatic,sedan,1,14990,9.615139,2015,3,1.7119223000000001,0,0,0,0,chicago,new
+195,$12500,chicago,chicago suburbs,2006 TOYOTA CAMRY SE,good,4 cylinders,fwd,gas,8.4304,silver,full-size,automatic,sedan,1,12500,9.4334841,2006,12,2.1318443,0,0,1,0,chicago,old
+196,$1600,chicago,chicago city,2001 toyota camry le,,,,gas,16.201469421386722,,,automatic,,0,1600,7.377758999999999,2001,17,2.7851019,1,0,0,0,chicago,old
+197,$2500,chicago,chicago city,2004 toyota camry solara,,,,gas,15.408045768737788,,,automatic,,0,2500,7.8240460999999994,2004,14,2.7348897,0,0,0,0,chicago,old
+198,$10695,chicago,chicago city,2011 toyota camry le,,,fwd,gas,6.0154,,,automatic,,0,10695,9.2775316,2011,7,1.7943228,1,0,0,0,chicago,new
+199,$3999,chicago,chicago suburbs,2006 TOYOTA CAMRY LE,,4 cylinders,,gas,14.155,red,,automatic,sedan,1,3999,8.293799400000001,2006,12,2.6500678,1,0,0,0,chicago,old
+200,$4500,chicago,chicago N,2007 toyota camry,good,,,hybrid,11.626930236816412,,,automatic,,0,4500,8.4118328,2007,11,2.4533241,0,0,0,0,chicago,old
+201,$4500,chicago,chicago N,2005 toyota camry le,,,,gas,9.5,,,automatic,,0,4500,8.4118328,2005,13,2.2512917999999997,1,0,0,0,chicago,old
+202,$16950,chicago,chicago N,2015 toyota camry hybrid,excellent,4 cylinders,fwd,gas,4.6681,blue,,automatic,sedan,0,16950,9.7380228,2015,3,1.5407521999999998,0,0,0,1,chicago,new
+203,$4995,chicago,chicago S,2009 Toyota Camry,,,fwd,gas,14.5777,silver,,automatic,sedan,1,4995,8.5161924,2009,9,2.679493,0,0,0,0,chicago,old
+204,$8995,chicago,chicago suburbs,2011 Toyota_ Camry_,excellent,4 cylinders,fwd,gas,9.9999,grey,mid-size,automatic,sedan,1,8995,9.1044245,2011,7,2.3025751,0,0,0,0,chicago,new
+205,$11988,chicago,chicago city,2013 TOYOTA CAMRY,,,fwd,gas,6.7513,black,,automatic,sedan,1,11988,9.391661599999999,2013,5,1.9097351000000002,0,0,0,0,chicago,new
+206,$1650,chicago,chicago city,1999 toyota camry le,good,4 cylinders,fwd,gas,16.43,,,automatic,sedan,0,1650,7.4085307,1999,19,2.799109,1,0,0,0,chicago,old
+207,$3590,chicago,chicago W,2002 toyota camry,good,6 cylinders,fwd,gas,12.8,brown,full-size,automatic,sedan,0,3590,8.185907400000001,2002,16,2.5494452,0,0,0,0,chicago,old
+208,$8980,chicago,chicago suburbs,2006 Toyota_ Camry_,excellent,4 cylinders,fwd,gas,3.8,grey,mid-size,automatic,sedan,1,8980,9.102755499999999,2006,12,1.3350011,0,0,0,0,chicago,old
+209,$3990,chicago,chicago city,2002 toyota camry le,like new,6 cylinders,fwd,gas,14.1,black,mid-size,automatic,sedan,1,3990,8.291546799999999,2002,16,2.6461749,1,0,0,0,chicago,old
+210,$10988,chicago,chicago city,2012 TOYOTA CAMRY,,,fwd,gas,7.7938,blue,,automatic,sedan,1,10988,9.3045588,2012,6,2.0533285,0,0,0,0,chicago,new
+211,$11900,chicago,,2014 Toyota Camry,,4 cylinders,fwd,gas,6.7393,red,,automatic,sedan,1,11900,9.3842936,2014,4,1.9079560000000002,0,0,0,0,chicago,new
+212,$1000,chicago,chicago city,1997 toyota camry xle,,4 cylinders,fwd,gas,24.0,blue,,automatic,,0,1000,6.9077554,1997,21,3.1780539,0,1,0,0,chicago,old
+213,$6950,chicago,chicago suburbs,2007 toyota camry hybrid,excellent,4 cylinders,fwd,hybrid,13.9987,blue,full-size,automatic,sedan,0,6950,8.8464966,2007,11,2.6389644,0,0,0,1,chicago,old
+214,$11500,chicago,chicago S,2012 toyota camry se,like new,4 cylinders,,gas,11.3,black,,automatic,,0,11500,9.3501024,2012,6,2.4248027999999997,0,0,1,0,chicago,new
+215,$800,chicago,chicago N,1998 toyota camry,good,4 cylinders,fwd,gas,22.0,,mid-size,automatic,,0,800,6.6846118,1998,20,3.0910425,0,0,0,0,chicago,old
+216,$1100,chicago,indiana NW,1997 Toyota Camry XLE,good,6 cylinders,,gas,21.9,white,,automatic,sedan,0,1100,7.0030656,1997,21,3.0864866,0,1,0,0,chicago,old
+217,$9977,chicago,,2011 Toyota Camry,,4 cylinders,fwd,gas,6.4628,black,,automatic,sedan,1,9977,9.2080374,2011,7,1.8660626,0,0,0,0,chicago,new
+218,$10883,chicago,chicago city,2013 TOYOTA CAMRY,,,fwd,gas,7.2006,,,automatic,sedan,1,10883,9.294957199999999,2013,5,1.9741644,0,0,0,0,chicago,new
+219,$9300,chicago,chicago city,2007 TOYOTA CAMRY V6 XLE,like new,6 cylinders,fwd,gas,5.0,silver,,automatic,sedan,0,9300,9.137769699999998,2007,11,1.6094378999999999,0,1,0,0,chicago,old
+220,$2595,chicago,chicago city,2002 Toyota Camry LE 4dr,,,,gas,14.32672119140625,,,automatic,,0,2595,7.861342,2002,16,2.6621262999999997,1,0,0,0,chicago,old
+221,$14900,chicago,chicago S,2014 toyota camry xle,excellent,4 cylinders,fwd,gas,2.3890000000000002,silver,mid-size,automatic,sedan,0,14900,9.6091166,2014,4,0.87087488,0,1,0,0,chicago,new
+222,$3999,chicago,chicago S,2003 TOYOTA CAMRY,,6 cylinders,,gas,14.6651,white,,automatic,coupe,1,3999,8.293799400000001,2003,15,2.6854706000000004,0,0,0,0,chicago,old
+223,$14991,chicago,chicago N,2014 Toyota Camry,,4 cylinders,fwd,gas,4.7536,silver,mid-size,automatic,sedan,1,14991,9.6152058,2014,4,1.5589023000000002,0,0,0,0,chicago,new
+224,$5500,chicago,chicago city,2007 toyota camry,,4 cylinders,,gas,11.626930236816412,,,automatic,sedan,0,5500,8.6125031,2007,11,2.4533241,0,0,0,0,chicago,old
+225,$14695,chicago,chicago S,2014 Toyota - Camry,excellent,other,,other,4.7853,custom,,other,sedan,1,14695,9.5952625,2014,4,1.5655488000000002,0,0,0,0,chicago,new
+226,$2300,chicago,chicago W,2005 toyota camry,good,6 cylinders,fwd,gas,18.65,grey,mid-size,automatic,,0,2300,7.7406645,2005,13,2.9258461,0,0,0,0,chicago,old
+227,$9900,chicago,,2011 Toyota Camry,,4 cylinders,fwd,gas,6.4628,black,,automatic,sedan,1,9900,9.200289699999999,2011,7,1.8660626,0,0,0,0,chicago,new
+228,$650,chicago,chicago city,1991 toyota camry,good,4 cylinders,fwd,gas,14.0,,,automatic,,0,650,6.4769726,1991,27,2.6390574,0,0,0,0,chicago,old
+229,$4000,chicago,chicago city,2006 toyota camry,good,4 cylinders,,gas,15.0,black,full-size,automatic,sedan,0,4000,8.294049300000001,2006,12,2.7080502999999996,0,0,0,0,chicago,old
+230,$550,chicago,chicago S,1998 toyota camry le,,4 cylinders,,gas,14.5,black,mid-size,automatic,sedan,0,550,6.3099184,1998,20,2.6741486,1,0,0,0,chicago,old
+231,$2799,chicago,chicago city,2000 toyota camry,excellent,4 cylinders,,gas,16.83345794677734,green,,automatic,,0,2799,7.9370174,2000,18,2.8233685,0,0,0,0,chicago,old
+232,$6999,chicago,chicago S,2011 toyota camry le,good,,,gas,14.2,,,automatic,,0,6999,8.853522300000002,2011,7,2.6532419,1,0,0,0,chicago,new
+233,$3400,chicago,chicago suburbs,2001 toyota camry,like new,,,gas,16.201469421386722,,,automatic,,0,3400,8.1315308,2001,17,2.7851019,0,0,0,0,chicago,old
+234,$1790,chicago,chicago city,1999 toyota camry le,excellent,4 cylinders,fwd,gas,13.3,silver,mid-size,automatic,sedan,1,1790,7.4899707,1999,19,2.587764,1,0,0,0,chicago,old
+235,$2200,chicago,chicago city,2005 toyota camry xle,,,,gas,14.384251594543462,,,automatic,,0,2200,7.6962128,2005,13,2.6661339,0,1,0,0,chicago,old
+236,$4695,chicago,chicago W,2002 Toyota Camry Solara,,,,gas,14.32672119140625,,,automatic,,0,4695,8.454253199999998,2002,16,2.6621262999999997,0,0,0,0,chicago,old
+237,$8900,chicago,chicago S,2008 toyota camry,,,,gas,12.54811191558838,,,automatic,,0,8900,9.0938063,2008,10,2.5295701,0,0,0,0,chicago,old
+238,$950,chicago,chicago W,1999 Toyota Camry,fair,,,gas,21.6,custom,,automatic,,0,950,6.856462,1999,19,3.0726932999999996,0,0,0,0,chicago,old
+239,$3599,chicago,chicago city,2004 toyota camry xle,,,,gas,15.408045768737788,,,automatic,,0,3599,8.1884117,2004,14,2.7348897,0,1,0,0,chicago,old
+240,$11800,chicago,chicago suburbs,2014 Toyota Camry,good,4 cylinders,fwd,gas,3.154,black,,automatic,sedan,0,11800,9.375854499999999,2014,4,1.1486715,0,0,0,0,chicago,new
+241,$5999,chicago,chicago S,2008 TOYOTA CAMRY SOLARA,,4 cylinders,,gas,12.9926,,,automatic,convertible,1,5999,8.6993484,2008,10,2.5643799,0,0,0,0,chicago,old
+242,$850,chicago,chicago suburbs,1994 toyota camry,good,4 cylinders,fwd,gas,17.99,white,full-size,automatic,sedan,0,850,6.7452364000000005,1994,24,2.889816,0,0,0,0,chicago,old
+243,$1450,chicago,chicago suburbs,1998 toyota camry le,good,4 cylinders,fwd,gas,16.82425880432129,grey,full-size,automatic,sedan,0,1450,7.2793187999999995,1998,20,2.8228218999999997,1,0,0,0,chicago,old
+244,$14995,chicago,chicago suburbs,2015 Toyota Camry LE,,,fwd,gas,9.0147,black,,automatic,sedan,1,14995,9.615471800000002,2015,3,2.1988566,1,0,0,0,chicago,new
+245,$6300,chicago,chicago W,2009 toyota camry le,like new,4 cylinders,fwd,gas,13.2572,silver,full-size,automatic,sedan,1,6300,8.748305300000002,2009,9,2.5845408,1,0,0,0,chicago,old
+246,$5995,chicago,chicago city,2009 TOYOTA CAMRY LE,good,4 cylinders,fwd,gas,16.45036315917969,black,mid-size,automatic,,1,5995,8.698680900000001,2009,9,2.8003476000000003,1,0,0,0,chicago,old
+247,$6277,chicago,chicago suburbs,2005 Toyota Camry,excellent,4 cylinders,fwd,gas,8.5069,,mid-size,automatic,sedan,1,6277,8.744647,2005,13,2.1408775,0,0,0,0,chicago,old
+248,$8300,chicago,chicago W,2011 toyota camry xle,excellent,6 cylinders,fwd,gas,9.0653,green,full-size,automatic,sedan,1,8300,9.024010699999998,2011,7,2.2044539,0,1,0,0,chicago,new
+249,$4499,chicago,chicago suburbs,2005 TOYOTA CAMRY SOLARA,,8 cylinders,,gas,13.65,red,,automatic,coupe,1,4499,8.4116106,2005,13,2.6137395,0,0,0,0,chicago,old
+250,$6500,chicago,chicago city,2011 toyota camry le,excellent,4 cylinders,fwd,gas,14.0,black,compact,automatic,sedan,0,6500,8.7795572,2011,7,2.6390574,1,0,0,0,chicago,new
+251,$6900,chicago,chicago city,2007 Toyota Camry Hybrid,good,4 cylinders,fwd,gas,12.0858,black,,automatic,sedan,1,6900,8.8392763,2007,11,2.4920311,0,0,0,1,chicago,old
+252,$2950,chicago,chicago city,2003 Toyota Camry,,,,gas,10.5,,,automatic,,0,2950,7.9895606,2003,15,2.3513752999999995,0,0,0,0,chicago,old
+253,$12000,chicago,chicago city,2010 toyota camry se,,,,gas,14.663999557495119,,,automatic,,0,12000,9.392662,2010,8,2.6853955000000003,0,0,1,0,chicago,old
+254,$12910,chicago,chicago city,2012 Toyota Camry Hybrid,,4 cylinders,fwd,hybrid,11.6464,black,,automatic,sedan,1,12910,9.465757400000001,2012,6,2.4549971,0,0,0,1,chicago,new
+255,$1800,chicago,chicago city,2002 toyota camry le,,4 cylinders,fwd,gas,14.32672119140625,silver,full-size,automatic,sedan,0,1800,7.4955419999999995,2002,16,2.6621262999999997,1,0,0,0,chicago,old
+256,$2098,chicago,chicago city,2003 toyota camry,good,4 cylinders,fwd,gas,18.9,,,automatic,sedan,0,2098,7.6487398,2003,15,2.939162,0,0,0,0,chicago,old
+257,$12800,chicago,chicago city,2014 Toyota Camry,,,,gas,4.791686534881592,,,automatic,,0,12800,9.4572001,2014,4,1.5668825000000002,0,0,0,0,chicago,new
+258,$4500,chicago,chicago city,2007 Toyota Camry Solara Sport,,,,gas,11.626930236816412,,,automatic,,0,4500,8.4118328,2007,11,2.4533241,0,0,0,0,chicago,old
+259,$8942,chicago,chicago city,2007 Toyota Camry,excellent,4 cylinders,fwd,gas,6.2999,black,mid-size,automatic,sedan,1,8942,9.0985146,2007,11,1.8405337,0,0,0,0,chicago,old
+260,$700,chicago,chicago suburbs,1994 toyota camry,good,4 cylinders,fwd,gas,17.99,white,full-size,automatic,sedan,0,700,6.5510802,1994,24,2.889816,0,0,0,0,chicago,old
+261,$6500,chicago,chicago city,2011 toyota camry,like new,4 cylinders,fwd,gas,12.5,white,compact,automatic,sedan,0,6500,8.7795572,2011,7,2.5257287,0,0,0,0,chicago,new
+262,$8888,chicago,chicago city,2007 Toyota Camry,excellent,4 cylinders,fwd,gas,6.2999,black,mid-size,automatic,sedan,1,8888,9.0924578,2007,11,1.8405337,0,0,0,0,chicago,old
+263,$6350,chicago,chicago W,2007 Toyota Camry,excellent,4 cylinders,fwd,gas,11.5515,silver,mid-size,automatic,sedan,1,6350,8.756210300000001,2007,11,2.4468153,0,0,0,0,chicago,old
+264,$3700,chicago,chicago city,2004 toyota camry,good,4 cylinders,,gas,15.408045768737788,white,,automatic,,0,3700,8.216088300000001,2004,14,2.7348897,0,0,0,0,chicago,old
+265,$9750,los angeles,LA westside-southbay,2010 toyota camry,like new,4 cylinders,fwd,gas,4.6,white,full-size,manual,sedan,0,9750,9.1850224,2010,8,1.5260563,0,0,0,0,los angeles,old
+266,$2600,chicago,chicago city,2003 toyota camry,excellent,4 cylinders,fwd,gas,14.3,silver,,automatic,,0,2600,7.863266900000001,2003,15,2.6602595,0,0,0,0,chicago,old
+267,$4300,chicago,chicago city,2005 toyota camry,excellent,6 cylinders,,gas,15.74,silver,,automatic,,0,4300,8.3663702,2005,13,2.7562053,0,0,0,0,chicago,old
+268,$14995,chicago,chicago city,2016 TOYOTA CAMRY,,,fwd,gas,4.095,black,,automatic,sedan,1,14995,9.615471800000002,2016,2,1.4097667,0,0,0,0,chicago,new
+269,$500,chicago,chicago city,2014 TOYOTA CAMRY,like new,6 cylinders,fwd,gas,4.791686534881592,black,full-size,automatic,sedan,1,500,6.2146082,2014,4,1.5668825000000002,0,0,0,0,chicago,new
+270,$14000,chicago,chicago city,2013 toyota camry,excellent,,,gas,3.8,silver,,automatic,,0,14000,9.546813,2013,5,1.3350011,0,0,0,0,chicago,new
+271,$9999,chicago,chicago city,2012 TOYOTA CAMRY,,,fwd,gas,10.8722,silver,,automatic,sedan,1,9999,9.210240400000002,2012,6,2.386209,0,0,0,0,chicago,new
+272,$4999,chicago,chicago S,2004 TOYOTA CAMRY  SOLARA,,6 cylinders,,gas,7.8,white,,automatic,sedan,1,4999,8.5169935,2004,14,2.0541236,0,0,0,0,chicago,old
+273,$9995,chicago,,2011 Toyota Camry,,4 cylinders,fwd,gas,6.4628,black,,automatic,sedan,1,9995,9.2098398,2011,7,1.8660626,0,0,0,0,chicago,new
+274,$3200,chicago,chicago suburbs,2000 toyota camry,good,4 cylinders,fwd,gas,15.0,silver,full-size,automatic,sedan,0,3200,8.0709057,2000,18,2.7080502999999996,0,0,0,0,chicago,old
+275,$12488,chicago,,2014 Toyota Camry,,4 cylinders,fwd,gas,6.7393,red,,automatic,sedan,1,12488,9.432523699999999,2014,4,1.9079560000000002,0,0,0,0,chicago,new
+276,$10995,chicago,chicago city,2011 Toyota Camry,,,fwd,gas,6.4655,black,,automatic,,1,10995,9.305195800000002,2011,7,1.8664804,0,0,0,0,chicago,new
+277,$4900,chicago,chicago W,2006 toyota camry solara,good,4 cylinders,fwd,gas,14.1,silver,mid-size,automatic,coupe,0,4900,8.496990199999999,2006,12,2.6461749,0,0,0,0,chicago,old
+278,$1500,chicago,chicago suburbs,2000 toyota camry,fair,4 cylinders,fwd,gas,18.62,silver,,automatic,sedan,0,1500,7.3132205,2000,18,2.9242362999999996,0,0,0,0,chicago,old
+279,$10000,chicago,chicago W,2011 Toyota Camry,excellent,4 cylinders,fwd,gas,5.3763,black,mid-size,automatic,sedan,1,10000,9.2103405,2011,7,1.6820004000000002,0,0,0,0,chicago,new
+280,$2300,los angeles,San Fernando,1998 toyota camry,excellent,4 cylinders,,gas,18.887,,,automatic,sedan,0,2300,7.7406645,1998,20,2.9384739,0,0,0,0,los angeles,old
+281,$3799,chicago,chicago suburbs,2000 TOYOTA CAMRY SOLARA,,6 cylinders,,gas,11.03,silver,,automatic,coupe,1,3799,8.2424936,2000,18,2.4006187999999997,0,0,0,0,chicago,old
+282,$3980,chicago,chicago S,2002 TOYOTA CAMRY LE,good,4 cylinders,fwd,gas,15.5987,silver,full-size,automatic,sedan,0,3980,8.2890368,2002,16,2.7471876,1,0,0,0,chicago,old
+283,$1540,los angeles,San Fernando,2009 toyota camry,good,,,gas,16.45036315917969,,,automatic,,0,1540,7.339537599999999,2009,9,2.8003476000000003,0,0,0,0,los angeles,old
+284,$15995,chicago,chicago city,2017 TOYOTA CAMRY,,,fwd,gas,5.4911,silver,,automatic,sedan,1,15995,9.680031800000002,2017,1,1.7031286,0,0,0,0,chicago,new
+285,$780,chicago,chicago city,1999 toyota camry,,,,gas,17.01991844177246,,,automatic,,0,780,6.659294099999999,1999,19,2.8343844,0,0,0,0,chicago,old
+286,$2100,chicago,chicago S,2001 toyota camry solara,,,,gas,20.8,white,mid-size,automatic,coupe,0,2100,7.6496925000000005,2001,17,3.0349529,0,0,0,0,chicago,old
+287,$2200,chicago,indiana NW,1995 Toyota Camry LE,fair,4 cylinders,fwd,gas,14.7856,brown,mid-size,automatic,sedan,0,2200,7.6962128,1995,23,2.6936538,1,0,0,0,chicago,old
+288,$12750,chicago,chicago suburbs,2014 Toyota Camry,excellent,4 cylinders,fwd,gas,3.3551,blue,,automatic,sedan,1,12750,9.453286199999999,2014,4,1.2104815,0,0,0,0,chicago,new
+289,$9899,chicago,,2011 Toyota Camry,,4 cylinders,fwd,gas,6.4628,black,,automatic,sedan,1,9899,9.2001886,2011,7,1.8660626,0,0,0,0,chicago,new
+290,$12333,chicago,,2014 Toyota Camry,,4 cylinders,fwd,gas,6.7393,red,,automatic,sedan,1,12333,9.4200335,2014,4,1.9079560000000002,0,0,0,0,chicago,new
+291,$4300,chicago,chicago city,2007 toyota camry,,4 cylinders,,gas,11.626930236816412,,,automatic,,0,4300,8.3663702,2007,11,2.4533241,0,0,0,0,chicago,old
+292,$1899,chicago,chicago city,2000 toyota camry,good,6 cylinders,,gas,16.83345794677734,,,automatic,,0,1899,7.549082799999999,2000,18,2.8233685,0,0,0,0,chicago,old
+293,$9750,los angeles,San Fernando,2010 toyota camry,like new,4 cylinders,fwd,gas,4.6,white,full-size,automatic,sedan,0,9750,9.1850224,2010,8,1.5260563,0,0,0,0,los angeles,old
+294,$3299,chicago,chicago S,1998 TOYOTA CAMRY LE,,4 cylinders,,gas,7.2075,grey,,automatic,sedan,1,3299,8.1013746,1998,20,1.9751221,1,0,0,0,chicago,old
+295,$3200,chicago,chicago city,2000 toyota camry le 4dr sedan,good,4 cylinders,fwd,gas,15.0,silver,full-size,automatic,sedan,0,3200,8.0709057,2000,18,2.7080502999999996,1,0,1,0,chicago,old
+296,$3499,chicago,chicago S,2001 TOYOTA CAMRY,,6 cylinders,,gas,8.0629,grey,,automatic,sedan,1,3499,8.1602325,2001,17,2.0872734,0,0,0,0,chicago,old
+297,$3500,chicago,chicago city,2003 toyota camry solara convertible,excellent,4 cylinders,fwd,gas,14.6,white,,automatic,convertible,0,3500,8.1605186,2003,15,2.6810215,0,0,0,0,chicago,old
+298,$2000,chicago,chicago suburbs,1999 toyota camry le,good,4 cylinders,fwd,gas,17.01991844177246,white,,automatic,,0,2000,7.6009025999999995,1999,19,2.8343844,1,0,0,0,chicago,old
+299,$2400,chicago,chicago suburbs,2001 TOYOTA CAMRY,excellent,4 cylinders,fwd,gas,18.0,grey,full-size,automatic,sedan,0,2400,7.783224099999999,2001,17,2.8903717999999996,0,0,0,0,chicago,old
+300,$1600,chicago,chicago city,1999 Toyota camry,,,,gas,17.01991844177246,,,automatic,,0,1600,7.377758999999999,1999,19,2.8343844,0,0,0,0,chicago,old
+301,$6999,los angeles,LA san gabriel,2009 toyota camry le 4dr sedan,,,,gas,12.76,,,automatic,,0,6999,8.853522300000002,2009,9,2.5463152,1,0,1,0,los angeles,old
+302,$800,chicago,chicago suburbs,1998 toyota camry,good,4 cylinders,fwd,gas,19.8,red,compact,automatic,,0,800,6.6846118,1998,20,2.985682,0,0,0,0,chicago,old
+303,$13500,chicago,chicago city,2014 toyota camry,like new,,,gas,5.0,,,automatic,,0,13500,9.5104446,2014,4,1.6094378999999999,0,0,0,0,chicago,new
+304,$5000,chicago,chicago suburbs,2006 toyota camry solara,good,,fwd,gas,12.8694,black,,automatic,,0,5000,8.517192800000002,2006,12,2.5548525,0,0,0,0,chicago,old
+305,$2600,chicago,chicago city,2001 toyota camry solara,,4 cylinders,fwd,gas,16.201469421386722,,,automatic,coupe,0,2600,7.863266900000001,2001,17,2.7851019,0,0,0,0,chicago,old
+306,$6500,chicago,chicago city,2009 Toyota camry,,,,gas,16.45036315917969,,,automatic,,0,6500,8.7795572,2009,9,2.8003476000000003,0,0,0,0,chicago,old
+307,$11550,chicago,chicago W,2012 toyota camry se,excellent,4 cylinders,fwd,gas,4.2330000000000005,black,,automatic,,0,11550,9.3544407,2012,6,1.4429108999999998,0,0,1,0,chicago,new
+308,$2450,los angeles,LA westside-southbay,2000 toyota camry le 4dr sedan,excellent,4 cylinders,fwd,gas,15.9126,green,mid-size,automatic,sedan,0,2450,7.8038435,2000,18,2.7671113,1,0,1,0,los angeles,old
+309,$450,chicago,chicago N,1999 Toyota Camry,,4 cylinders,fwd,gas,15.3,,,automatic,,0,450,6.1092477,1999,19,2.7278528,0,0,0,0,chicago,old
+310,$2700,chicago,chicago S,2003 toyota camry,,,,gas,23.0,,,automatic,,0,2700,7.9010072000000005,2003,15,3.1354942,0,0,0,0,chicago,old
+311,$3980,chicago,chicago S,2002 toyota camry le,good,4 cylinders,fwd,gas,15.5987,silver,full-size,automatic,sedan,0,3980,8.2890368,2002,16,2.7471876,1,0,0,0,chicago,old
+312,$2995,chicago,indiana NW,1999 toyota camry le,good,4 cylinders,fwd,gas,14.415,grey,mid-size,automatic,sedan,1,2995,8.0046997,1999,19,2.6682694,1,0,0,0,chicago,old
+313,$3395,chicago,chicago suburbs,2005 toyota camry se sedan 4d,good,4 cylinders,fwd,gas,18.9,silver,full-size,automatic,,0,3395,8.1300592,2005,13,2.939162,0,0,1,0,chicago,old
+314,$4000,chicago,chicago city,2005 toyota camry,good,4 cylinders,fwd,gas,22.0,red,mid-size,automatic,sedan,0,4000,8.294049300000001,2005,13,3.0910425,0,0,0,0,chicago,old
+315,$1800,chicago,chicago city,1999 toyota camry,good,6 cylinders,fwd,gas,25.1925,white,mid-size,automatic,sedan,0,1800,7.4955419999999995,1999,19,3.2265463,0,0,0,0,chicago,old
+316,$950,chicago,chicago N,1992 toyota camry,fair,4 cylinders,fwd,gas,18.5,silver,compact,automatic,coupe,0,950,6.856462,1992,26,2.9177706000000003,0,0,0,0,chicago,old
+317,$1000,los angeles,LA long beach,1999 toyota camry xle,,,,gas,17.01991844177246,,,automatic,,0,1000,6.9077554,1999,19,2.8343844,0,1,0,0,los angeles,old
+318,$2300,chicago,chicago city,2003 toyota camry,,,,gas,14.08167171478272,,,automatic,,0,2300,7.7406645,2003,15,2.6448741,0,0,0,0,chicago,old
+319,$2200,chicago,chicago city,1999 1999 Toyota Camry,,,,gas,17.01991844177246,,,automatic,,0,2200,7.6962128,1999,19,2.8343844,0,0,0,0,chicago,old
+320,$2500,chicago,chicago city,2003 toyota camry,,,,gas,14.08167171478272,,,automatic,,0,2500,7.8240460999999994,2003,15,2.6448741,0,0,0,0,chicago,old
+321,$8000,los angeles,LA long beach,2012 Toyota Camry,,,,gas,8.304973602294924,,,automatic,,0,8000,8.987196899999999,2012,6,2.1168547,0,0,0,0,los angeles,new
+322,$6800,chicago,chicago city,2009 Toyota Camry,,,,gas,16.45036315917969,,,automatic,,0,6800,8.8246775,2009,9,2.8003476000000003,0,0,0,0,chicago,old
+323,$1000,chicago,chicago N,1998 toyota camry le,good,4 cylinders,fwd,gas,20.0,custom,full-size,automatic,sedan,0,1000,6.9077554,1998,20,2.9957323,1,0,0,0,chicago,old
+324,$14994,chicago,chicago city,2015 TOYOTA CAMRY,,,fwd,gas,3.6154,white,,automatic,sedan,1,14994,9.615405099999998,2015,3,1.2852025,0,0,0,0,chicago,new
+325,$9785,chicago,chicago W,2006 toyota camry solara convertible,excellent,6 cylinders,fwd,gas,7.5962,black,,automatic,,0,9785,9.188606300000002,2006,12,2.0276482,0,0,0,0,chicago,old
+326,$1500,chicago,chicago S,1999 toyota camry le,excellent,4 cylinders,fwd,gas,17.01991844177246,,full-size,automatic,coupe,0,1500,7.3132205,1999,19,2.8343844,1,0,0,0,chicago,old
+327,$9888,chicago,chicago city,2005 Toyota Camry Solara 2dr Cpe SPT V6 Auto (Natl),,6 cylinders,fwd,,5.6172,,,automatic,coupe,1,9888,9.199077599999999,2005,13,1.7258333,0,0,0,0,chicago,old
+328,$17777,chicago,chicago city,2015 toyota camry xle,excellent,4 cylinders,fwd,gas,4.963212966918945,silver,,automatic,,1,17777,9.7856607,2015,3,1.6020533000000001,0,1,0,0,chicago,new
+329,$8500,los angeles,San Fernando,2009 toyota camry,excellent,6 cylinders,fwd,gas,16.45036315917969,,,automatic,sedan,0,8500,9.047821,2009,9,2.8003476000000003,0,0,0,0,los angeles,old
+330,$14593,chicago,chicago W,2016 Toyota Camry,,4 cylinders,fwd,gas,4.5484,black,,automatic,sedan,1,14593,9.5882969,2016,2,1.5147754999999998,0,0,0,0,chicago,new
+331,$5499,chicago,chicago S,2003 TOYOTA CAMRY  SOLARA,,6 cylinders,,gas,15.7,black,,automatic,SUV,1,5499,8.6123219,2003,15,2.7536607,0,0,0,0,chicago,old
+332,$2800,chicago,chicago S,2000 toyota camry solara,good,6 cylinders,fwd,gas,21.21,silver,mid-size,manual,coupe,0,2800,7.9373746,2000,18,3.0544727000000003,0,0,0,0,chicago,old
+333,$10800,chicago,chicago N,2010 Toyota Camry se,,,,gas,14.663999557495119,,,automatic,,0,10800,9.2873011,2010,8,2.6853955000000003,0,0,1,0,chicago,old
+334,$9750,los angeles,LA long beach,2010 toyota camry,like new,4 cylinders,fwd,gas,4.6,white,full-size,automatic,sedan,0,9750,9.1850224,2010,8,1.5260563,0,0,0,0,los angeles,old
+335,$500,chicago,chicago city,2014 TOYOTA CAMRY,like new,4 cylinders,fwd,gas,4.791686534881592,black,full-size,automatic,sedan,1,500,6.2146082,2014,4,1.5668825000000002,0,0,0,0,chicago,new
+336,$9499,chicago,chicago suburbs,2007 TOYOTA CAMRY,,4 cylinders,,gas,4.314,red,,automatic,sedan,1,9499,9.158942199999998,2007,11,1.4618655,0,0,0,0,chicago,old
+337,$16450,los angeles,San Fernando,2014 Toyota Camry XLE,,,fwd,gas,2.23,black,,automatic,sedan,1,16450,9.7080803,2014,4,0.8020016,0,1,0,0,los angeles,new
+338,$2500,los angeles,LA san gabriel,1999 toyota camry,,,,gas,17.01991844177246,,,automatic,,0,2500,7.8240460999999994,1999,19,2.8343844,0,0,0,0,los angeles,old
+339,$3000,los angeles,San Fernando,2001 toyota camry solara,,,,gas,12.0,,,automatic,,0,3000,8.0063677,2001,17,2.4849067000000002,0,0,0,0,los angeles,old
+340,$5800,los angeles,central LA,2005 Toyota Camry LE,excellent,4 cylinders,,gas,14.384251594543462,,,automatic,sedan,0,5800,8.6656132,2005,13,2.6661339,1,0,0,0,los angeles,old
+341,$13000,los angeles,LA long beach,2014 toyota camry se,good,4 cylinders,fwd,gas,6.6,silver,compact,automatic,sedan,0,13000,9.4727049,2014,4,1.8870697,0,0,1,0,los angeles,new
+342,$5000,los angeles,LA san gabriel,2005 toyota camry,good,,,gas,10.0,black,,automatic,,0,5000,8.517192800000002,2005,13,2.3025851000000004,0,0,0,0,los angeles,old
+343,$6995,los angeles,central LA,2006 Toyota Camry Solara SE,,,fwd,gas,11.2426,blue,,automatic,coupe,1,6995,8.852951,2006,12,2.4197102000000004,0,0,1,0,los angeles,old
+344,$11995,los angeles,San Fernando,2012 toyota Camry LE,like new,4 cylinders,fwd,gas,4.8894,grey,mid-size,automatic,sedan,0,11995,9.3922453,2012,6,1.5870696000000002,1,0,0,0,los angeles,new
+345,$1299,los angeles,LA san gabriel,2000 Toyota Camry,,,,gas,16.83345794677734,,,automatic,,0,1299,7.169350099999999,2000,18,2.8233685,0,0,0,0,los angeles,old
+346,$2500,los angeles,LA westside-southbay,2001 toyota camry ce,excellent,,,gas,16.201469421386722,,,automatic,,0,2500,7.8240460999999994,2001,17,2.7851019,0,0,0,0,los angeles,old
+347,$2500,los angeles,North LA county,2003 toyota camry,,4 cylinders,,gas,17.5,,,automatic,,0,2500,7.8240460999999994,2003,15,2.8622009999999998,0,0,0,0,los angeles,old
+348,$7600,los angeles,central LA,2009 toyota camry,excellent,4 cylinders,,gas,8.1,,,automatic,,0,7600,8.9359035,2009,9,2.0918641,0,0,0,0,los angeles,old
+349,$2500,los angeles,LA westside-southbay,2001 toyota camry ce,excellent,,,gas,16.201469421386722,,,automatic,sedan,0,2500,7.8240460999999994,2001,17,2.7851019,0,0,0,0,los angeles,old
+350,$6000,los angeles,central LA,2007 toyota camry,like new,6 cylinders,,gas,11.1465,,,automatic,,0,6000,8.6995144,2007,11,2.4111257,0,0,0,0,los angeles,old
+351,$7595,los angeles,central LA,2009 toyota camry,like new,,,gas,8.1,,,automatic,,0,7595,8.9352455,2009,9,2.0918641,0,0,0,0,los angeles,old
+352,$400,los angeles,North LA county,1999 toyota camry,good,4 cylinders,rwd,gas,20.0,brown,,automatic,sedan,0,400,5.9914646,1999,19,2.9957323,0,0,0,0,los angeles,old
+353,$7995,los angeles,San Fernando,2011 TOYOTA CAMRY,,,fwd,other,13.1611,red,,automatic,sedan,1,7995,8.9865713,2011,7,2.5772654999999998,0,0,0,0,los angeles,new
+354,$1055,los angeles,LA westside-southbay,2005 Toyota Camry,excellent,6 cylinders,fwd,gas,14.384251594543462,white,full-size,automatic,sedan,0,1055,6.961296099999999,2005,13,2.6661339,0,0,0,0,los angeles,old
+355,$4500,los angeles,LA long beach,2010 toyota camry se 4dr sedan,,,,gas,14.663999557495119,,,automatic,,0,4500,8.4118328,2010,8,2.6853955000000003,0,0,1,0,los angeles,old
+356,$3400,los angeles,LA san gabriel,2005 toyota camry,,,,gas,14.384251594543462,,,automatic,,0,3400,8.1315308,2005,13,2.6661339,0,0,0,0,los angeles,old
+357,$6999,los angeles,San Fernando,2008 Toyota Camry,excellent,4 cylinders,,gas,12.54811191558838,,,automatic,,0,6999,8.853522300000002,2008,10,2.5295701,0,0,0,0,los angeles,old
+358,$3800,los angeles,LA long beach,2005 Toyota Camry Le,good,4 cylinders,fwd,gas,15.1352,silver,mid-size,automatic,sedan,0,3800,8.2427559,2005,13,2.7170231,0,0,0,0,los angeles,old
+359,$2700,los angeles,San Fernando,2000 toyota camry,excellent,4 cylinders,,gas,16.83345794677734,brown,full-size,automatic,sedan,0,2700,7.9010072000000005,2000,18,2.8233685,0,0,0,0,los angeles,old
+360,$1000,los angeles,LA westside-southbay,2003 toyota camry xle,like new,4 cylinders,fwd,gas,14.08167171478272,white,full-size,automatic,sedan,0,1000,6.9077554,2003,15,2.6448741,0,1,0,0,los angeles,old
+361,$1060,los angeles,LA westside-southbay,2004 Toyota Camry Le,excellent,6 cylinders,fwd,gas,15.408045768737788,white,full-size,automatic,,0,1060,6.9660244,2004,14,2.7348897,0,0,0,0,los angeles,old
+362,$10995,los angeles,San Fernando,2013 Toyota Camry SE,excellent,4 cylinders,,gas,7.531633377075195,,,automatic,,0,10995,9.305195800000002,2013,5,2.0191119,0,0,1,0,los angeles,new
+363,$7899,los angeles,central LA,2009 toyota camry,,,,gas,16.45036315917969,,,automatic,,0,7899,8.9744911,2009,9,2.8003476000000003,0,0,0,0,los angeles,old
+364,$6000,los angeles,San Fernando,2007 toyota camry,like new,6 cylinders,,gas,11.626930236816412,,,automatic,,0,6000,8.6995144,2007,11,2.4533241,0,0,0,0,los angeles,old
+365,$2500,los angeles,central LA,2004 toyota camry,good,,,gas,15.408045768737788,,,automatic,,0,2500,7.8240460999999994,2004,14,2.7348897,0,0,0,0,los angeles,old
+366,$8000,los angeles,San Fernando,2011 Toyota Camry,excellent,4 cylinders,fwd,gas,11.1,,,automatic,,0,8000,8.987196899999999,2011,7,2.406945,0,0,0,0,los angeles,new
+367,$3000,los angeles,LA westside-southbay,2002 toyota camry,excellent,,,gas,14.32672119140625,,,automatic,,0,3000,8.0063677,2002,16,2.6621262999999997,0,0,0,0,los angeles,old
+368,$2500,los angeles,San Fernando,2003 Toyota camry,,4 cylinders,,gas,14.08167171478272,,,automatic,,0,2500,7.8240460999999994,2003,15,2.6448741,0,0,0,0,los angeles,old
+369,$3800,los angeles,LA long beach,2005 Toyota Camry,good,4 cylinders,fwd,gas,15.1352,silver,mid-size,automatic,sedan,0,3800,8.2427559,2005,13,2.7170231,0,0,0,0,los angeles,old
+370,$4900,los angeles,central LA,2007 TOYOTA CAMRY LE,excellent,4 cylinders,fwd,gas,18.3138,blue,mid-size,automatic,sedan,0,4900,8.496990199999999,2007,11,2.9076548,1,0,0,0,los angeles,old
+371,$2500,los angeles,LA westside-southbay,2002 Toyota Camry LE,good,,,gas,14.32672119140625,,,automatic,,0,2500,7.8240460999999994,2002,16,2.6621262999999997,1,0,0,0,los angeles,old
+372,$6500,los angeles,San Fernando,2007 Toyota Camry LE,excellent,4 cylinders,fwd,gas,10.169,silver,mid-size,automatic,sedan,0,6500,8.7795572,2007,11,2.3193438,1,0,0,0,los angeles,old
+373,$12700,los angeles,LA long beach,2016 toyota camry,,,,gas,4.249044418334962,,,automatic,,0,12700,9.449357000000001,2016,2,1.4466941,0,0,0,0,los angeles,new
+374,$2500,los angeles,central LA,2001 Toyota camry le,,,,gas,16.201469421386722,,,automatic,,0,2500,7.8240460999999994,2001,17,2.7851019,1,0,0,0,los angeles,old
+375,$2400,los angeles,central LA,2003 toyota camry,,,,gas,14.08167171478272,,,automatic,,0,2400,7.783224099999999,2003,15,2.6448741,0,0,0,0,los angeles,old
+376,$9500,los angeles,LA long beach,2014 toyota camry se 4dr sedan,,,,gas,4.791686534881592,,,automatic,,0,9500,9.159047099999999,2014,4,1.5668825000000002,0,0,1,0,los angeles,new
+377,$3300,los angeles,San Fernando,2001 toyota camry le,excellent,4 cylinders,,gas,13.3,grey,,automatic,,0,3300,8.1016779,2001,17,2.587764,1,0,0,0,los angeles,old
+378,$10300,los angeles,central LA,2014 Toyota Camry Se,,,,gas,2.6942,,,automatic,,0,10300,9.2398996,2014,4,0.99110132,0,0,0,0,los angeles,new
+379,$600,los angeles,central LA,1994 toyota camry le,good,,,gas,20.4159,red,mid-size,automatic,,0,600,6.3969297,1994,24,3.016314,1,0,0,0,los angeles,old
+380,$4800,los angeles,San Fernando,2006 Toyota camry,,,,gas,10.5,,,automatic,,0,4800,8.476370800000002,2006,12,2.3513752999999995,0,0,0,0,los angeles,old
+381,$4900,los angeles,central LA,2007 toyota camry le 4dr sedan,excellent,4 cylinders,fwd,gas,13.8183,blue,mid-size,automatic,sedan,0,4900,8.496990199999999,2007,11,2.6259937,1,0,1,0,los angeles,old
+382,$2300,los angeles,San Fernando,2006 Toyota Camry,like new,4 cylinders,,gas,12.66718101501465,grey,full-size,automatic,sedan,0,2300,7.7406645,2006,12,2.5390146000000002,0,0,0,0,los angeles,old
+383,$4999,los angeles,central LA,2008 Toyota camry,good,4 cylinders,,gas,15.0,black,full-size,automatic,sedan,0,4999,8.5169935,2008,10,2.7080502999999996,0,0,0,0,los angeles,old
+384,$6000,los angeles,LA long beach,2007 toyota camry,like new,6 cylinders,,gas,11.626930236816412,,,automatic,,0,6000,8.6995144,2007,11,2.4533241,0,0,0,0,los angeles,old
+385,$9000,los angeles,San Fernando,2005 Toyota Camry or Prius,,,,gas,14.384251594543462,,,automatic,,0,9000,9.1049795,2005,13,2.6661339,0,0,0,0,los angeles,old
+386,$11900,los angeles,central LA,2015 Toyota Camry Se,,,,gas,3.5007,,,automatic,,0,11900,9.3842936,2015,3,1.2529629,0,0,0,0,los angeles,new
+387,$3900,los angeles,central LA,2000 Toyota Camry,good,4 cylinders,fwd,gas,12.0,white,compact,automatic,sedan,0,3900,8.2687321,2000,18,2.4849067000000002,0,0,0,0,los angeles,old
+388,$2500,los angeles,central LA,1998 toyota camry,good,,,gas,16.82425880432129,,,automatic,,0,2500,7.8240460999999994,1998,20,2.8228218999999997,0,0,0,0,los angeles,old
+389,$7500,los angeles,central LA,2009 toyota camry,excellent,4 cylinders,,gas,8.1,,,automatic,,0,7500,8.922658,2009,9,2.0918641,0,0,0,0,los angeles,old
+390,$1000,los angeles,central LA,2012 toyota camry,,,,gas,8.304973602294924,,,automatic,,0,1000,6.9077554,2012,6,2.1168547,0,0,0,0,los angeles,new
+391,$550,los angeles,LA san gabriel,1993 toyota camry,,,,gas,31.95,,,automatic,,0,550,6.3099184,1993,25,3.4641721,0,0,0,0,los angeles,old
+392,$1000,los angeles,North LA county,1994 toyota camry,good,4 cylinders,fwd,gas,17.54897499084473,black,compact,automatic,sedan,0,1000,6.9077554,1994,24,2.8649955,0,0,0,0,los angeles,old
+393,$11400,los angeles,LA long beach,2015 Toyota Camry SE,like new,4 cylinders,fwd,gas,11.5629,,compact,automatic,sedan,0,11400,9.341368699999999,2015,3,2.4478016,0,0,1,0,los angeles,new
+394,$8300,los angeles,San Fernando,2007 toyota camry,excellent,4 cylinders,fwd,gas,8.48,green,full-size,automatic,,0,8300,9.024010699999998,2007,11,2.1377102999999997,0,0,0,0,los angeles,old
+395,$7600,los angeles,central LA,2009 toyota camry le,excellent,,,gas,16.45036315917969,,,automatic,,0,7600,8.9359035,2009,9,2.8003476000000003,1,0,0,0,los angeles,old
+396,$1500,los angeles,LA westside-southbay,2007 Toyota Camry XLE,like new,,fwd,gas,11.626930236816412,,full-size,automatic,sedan,0,1500,7.3132205,2007,11,2.4533241,0,1,0,0,los angeles,old
+397,$3950,los angeles,LA westside-southbay,2006 toyota camry solara,good,6 cylinders,fwd,gas,16.4213,blue,mid-size,automatic,coupe,0,3950,8.2814713,2006,12,2.7985792000000003,0,0,0,0,los angeles,old
+398,$12100,los angeles,central LA,2015 Toyota Camry,,,,gas,3.4306,,,automatic,,0,12100,9.4009609,2015,3,1.2327351999999998,0,0,0,0,los angeles,new
+399,$1200,los angeles,San Fernando,1996 Toyota Camry,good,4 cylinders,fwd,gas,21.9,,,automatic,,0,1200,7.0900769,1996,22,3.0864866,0,0,0,0,los angeles,old
+400,$13600,los angeles,San Fernando,2014 Toyota Camry SE,,,,gas,5.25,,,automatic,,0,13600,9.5178251,2014,4,1.6582279999999998,0,0,1,0,los angeles,new
+401,$1500,los angeles,San Fernando,1995 toyota camry,,,,gas,20.04253387451172,,,automatic,,0,1500,7.3132205,1995,23,2.9978566000000004,0,0,0,0,los angeles,old
+402,$2500,los angeles,central LA,2003 toyota camry,good,,,gas,17.5,,,automatic,,0,2500,7.8240460999999994,2003,15,2.8622009999999998,0,0,0,0,los angeles,old
+403,$2500,los angeles,LA westside-southbay,2001 Toyota Camry ce,excellent,,,gas,16.201469421386722,,,automatic,,0,2500,7.8240460999999994,2001,17,2.7851019,0,0,0,0,los angeles,old
+404,$2700,los angeles,central LA,2000 toyota camry,excellent,4 cylinders,,gas,16.83345794677734,brown,full-size,automatic,sedan,0,2700,7.9010072000000005,2000,18,2.8233685,0,0,0,0,los angeles,old
+405,$2500,los angeles,San Fernando,2003 toyota camry,,,,gas,14.08167171478272,,,automatic,,0,2500,7.8240460999999994,2003,15,2.6448741,0,0,0,0,los angeles,old
+406,$1068,los angeles,LA westside-southbay,2005 toyota camry xle,excellent,6 cylinders,fwd,gas,14.384251594543462,white,full-size,automatic,sedan,0,1068,6.9735432,2005,13,2.6661339,0,1,0,0,los angeles,old
+407,$6995,los angeles,San Fernando,2007 toyota camry ce,,4 cylinders,,gas,11.626930236816412,black,,automatic,sedan,1,6995,8.852951,2007,11,2.4533241,0,0,0,0,los angeles,old
+408,$1000,los angeles,San Fernando,2005 toyota camry,,,,gas,14.384251594543462,,,automatic,,0,1000,6.9077554,2005,13,2.6661339,0,0,0,0,los angeles,old
+409,$5500,los angeles,LA san gabriel,2010 TOYOTA CAMRY,good,4 cylinders,,gas,16.0,,,automatic,,0,5500,8.6125031,2010,8,2.7725887000000005,0,0,0,0,los angeles,old
+410,$7500,los angeles,San Fernando,2012 toyota camry le,excellent,4 cylinders,fwd,diesel,8.304973602294924,,,automatic,sedan,0,7500,8.922658,2012,6,2.1168547,1,0,0,0,los angeles,new
+411,$1650,los angeles,San Fernando,1995 toyota Camry Le,fair,4 cylinders,fwd,gas,27.1,blue,compact,automatic,sedan,0,1650,7.4085307,1995,23,3.2995337999999994,0,0,0,0,los angeles,old
+412,$16995,los angeles,San Fernando,2016 TOYOTA CAMRY,,,fwd,other,3.9373,white,,automatic,sedan,1,16995,9.740674,2016,2,1.3704952,0,0,0,0,los angeles,new
+413,$500,los angeles,LA westside-southbay,2000 toyota camry solara,,6 cylinders,fwd,gas,25.6,white,,automatic,coupe,0,500,6.2146082,2000,18,3.2425923,0,0,0,0,los angeles,old
+414,$3300,los angeles,central LA,2012 Toyota Camry,like new,4 cylinders,fwd,gas,8.304973602294924,,,automatic,,0,3300,8.1016779,2012,6,2.1168547,0,0,0,0,los angeles,new
+415,$3799,los angeles,LA san gabriel,2004 toyota camry xle,,,,gas,11.325,,,automatic,,1,3799,8.2424936,2004,14,2.4270127,0,1,0,0,los angeles,old
+416,$6990,los angeles,LA westside-southbay,2007 toyota camry,like new,4 cylinders,,gas,12.4,silver,compact,automatic,sedan,0,6990,8.8522358,2007,11,2.5176964,0,0,0,0,los angeles,old
+417,$1600,los angeles,LA long beach,2001 Toyota Camry,excellent,4 cylinders,fwd,gas,22.5,custom,,automatic,sedan,0,1600,7.377758999999999,2001,17,3.1135154,0,0,0,0,los angeles,old
+418,$11400,los angeles,central LA,2015 Toyota Camry SE,like new,4 cylinders,fwd,gas,11.5629,,compact,automatic,sedan,0,11400,9.341368699999999,2015,3,2.4478016,0,0,1,0,los angeles,new
+419,$7000,los angeles,LA san gabriel,2007 toyota camry le,excellent,4 cylinders,fwd,gas,10.4,white,full-size,automatic,sedan,0,7000,8.8536654,2007,11,2.3418057,1,0,0,0,los angeles,old
+420,$1000,los angeles,San Fernando,1997 toyota camry,good,4 cylinders,fwd,gas,18.7007999420166,black,mid-size,automatic,sedan,0,1000,6.9077554,1997,21,2.9285662,0,0,0,0,los angeles,old
+421,$3000,los angeles,central LA,1998 toyota camry,good,4 cylinders,fwd,gas,15.8,green,compact,automatic,sedan,0,3000,8.0063677,1998,20,2.76001,0,0,0,0,los angeles,old
+422,$3850,los angeles,LA westside-southbay,2006 toyota camry solara,like new,6 cylinders,,gas,16.4,,,automatic,coupe,0,3850,8.255828900000001,2006,12,2.7972813,0,0,0,0,los angeles,old
+423,$5000,los angeles,LA westside-southbay,2007 toyota camry solara convertible,good,6 cylinders,,gas,12.0,grey,mid-size,automatic,convertible,0,5000,8.517192800000002,2007,11,2.4849067000000002,0,0,0,0,los angeles,old
+424,$12888,los angeles,LA san gabriel,2015 Toyota Camry LE,good,4 cylinders,fwd,gas,4.4,white,mid-size,automatic,sedan,1,12888,9.4640522,2015,3,1.4816046,1,0,0,0,los angeles,new
+425,$2599,los angeles,LA long beach,2000 Toyota Camry LE,excellent,4 cylinders,fwd,gas,18.6528,,mid-size,automatic,sedan,0,2599,7.862882099999999,2000,18,2.9259963,1,0,0,0,los angeles,old
+426,$2400,los angeles,LA westside-southbay,2001 Toyota Camry,good,4 cylinders,,gas,13.5,,,automatic,,0,2400,7.783224099999999,2001,17,2.6026897,0,0,0,0,los angeles,old
+427,$5900,los angeles,San Fernando,2007 toyota camry,excellent,4 cylinders,,gas,11.8,,,automatic,,0,5900,8.682707800000001,2007,11,2.4680996,0,0,0,0,los angeles,old
+428,$1500,los angeles,LA westside-southbay,1997 Toyota camry,good,4 cylinders,fwd,gas,19.756,green,compact,automatic,coupe,0,1500,7.3132205,1997,21,2.9834572999999995,0,0,0,0,los angeles,old
+429,$14988,los angeles,LA san gabriel,2015 TOYOTA CAMRY,,,fwd,gas,5.5096,,,automatic,sedan,1,14988,9.615005499999999,2015,3,1.7064921000000002,0,0,0,0,los angeles,new
+430,$9000,los angeles,LA long beach,2014 toyota camry le 4dr sedan,,,,gas,4.791686534881592,,,automatic,,0,9000,9.1049795,2014,4,1.5668825000000002,1,0,1,0,los angeles,new
+431,$15800,los angeles,LA san gabriel,2016 Toyota Camry LE,excellent,4 cylinders,,gas,4.249044418334962,,,automatic,,0,15800,9.667765600000001,2016,2,1.4466941,1,0,0,0,los angeles,new
+432,$18500,los angeles,LA westside-southbay,2017 toyota camry se,like new,4 cylinders,fwd,gas,0.5,grey,full-size,automatic,sedan,0,18500,9.825526199999999,2017,1,-0.69314718,0,0,1,0,los angeles,new
+433,$3500,los angeles,LA san gabriel,2002 toyota camry le,fair,4 cylinders,fwd,gas,6.6354,silver,full-size,automatic,sedan,0,3500,8.1605186,2002,16,1.8924189999999999,1,0,0,0,los angeles,old
+434,$90002,los angeles,San Fernando,2003 Toyota Camry Xle,,,,gas,14.08167171478272,,,automatic,,0,90002,11.407587,2003,15,2.6448741,0,0,0,0,los angeles,old
+435,$6500,los angeles,San Fernando,2010 toyota camry le 4dr sedan,good,4 cylinders,fwd,gas,15.3,white,full-size,automatic,sedan,0,6500,8.7795572,2010,8,2.7278528,1,0,1,0,los angeles,old
+436,$8300,los angeles,LA san gabriel,2007 Toyota camry,,,,gas,11.8,,,automatic,,0,8300,9.024010699999998,2007,11,2.4680996,0,0,0,0,los angeles,old
+437,$950,los angeles,central LA,1993 toyota camry,,,,gas,21.91666603088379,,,automatic,,0,950,6.856462,1993,25,3.0872474,0,0,0,0,los angeles,old
+438,$950,los angeles,central LA,1997 toyota camry le,,,,gas,18.7007999420166,,,manual,,0,950,6.856462,1997,21,2.9285662,1,0,0,0,los angeles,old
+439,$2395,los angeles,central LA,2004 toyota camry solara,,4 cylinders,fwd,gas,23.9,red,full-size,automatic,coupe,0,2395,7.781138400000001,2004,14,3.1738784,0,0,0,0,los angeles,old
+440,$5100,los angeles,LA long beach,2008 toyota camry le 4dr sedan,good,4 cylinders,,gas,9.8,black,,automatic,,0,5100,8.5369959,2008,10,2.2823825,1,0,1,0,los angeles,old
+441,$1000,los angeles,central LA,1996 Toyota Camry,,,,gas,21.89999961853027,,,manual,,0,1000,6.9077554,1996,22,3.0864866,0,0,0,0,los angeles,old
+442,$1,los angeles,San Fernando,2003 toyota camry le,excellent,4 cylinders,,gas,14.08167171478272,white,full-size,automatic,,0,1,0.0,2003,15,2.6448741,1,0,0,0,los angeles,old
+443,$3200,los angeles,central LA,2006 Toyota  camry,good,4 cylinders,fwd,gas,13.1,white,compact,automatic,sedan,0,3200,8.0709057,2006,12,2.5726123,0,0,0,0,los angeles,old
+444,$4950,los angeles,LA long beach,2009 toyota camry,excellent,4 cylinders,,gas,17.4,,,manual,,0,4950,8.507143,2009,9,2.8564701,0,0,0,0,los angeles,old
+445,$4500,los angeles,LA san gabriel,2005 toyota camry,,,,gas,14.384251594543462,,,automatic,,0,4500,8.4118328,2005,13,2.6661339,0,0,0,0,los angeles,old
+446,$3700,los angeles,San Fernando,2003 toyota camry,,,,gas,13.2,,,automatic,,0,3700,8.216088300000001,2003,15,2.5802169,0,0,0,0,los angeles,old
+447,$1000,los angeles,San Fernando,1999 Toyota camry,good,4 cylinders,rwd,gas,20.5,brown,compact,automatic,coupe,0,1000,6.9077554,1999,19,3.0204248,0,0,0,0,los angeles,old
+448,$1150,los angeles,LA westside-southbay,2003 Toyota CAMRY XLE,,,,gas,6.7,white,,automatic,,0,1150,7.047517299999999,2003,15,1.9021075,0,1,0,0,los angeles,old
+449,$4500,los angeles,central LA,2008 toyota camry,,,,gas,12.54811191558838,,,manual,,0,4500,8.4118328,2008,10,2.5295701,0,0,0,0,los angeles,old
+450,$3115,los angeles,central LA,2012 toyota camry,like new,4 cylinders,,gas,8.304973602294924,black,,automatic,sedan,0,3115,8.0439844,2012,6,2.1168547,0,0,0,0,los angeles,new
+451,$2500,los angeles,central LA,2003 toyota camry,,6 cylinders,fwd,gas,14.08167171478272,black,,automatic,sedan,0,2500,7.8240460999999994,2003,15,2.6448741,0,0,0,0,los angeles,old
+452,$15995,los angeles,San Fernando,2015 Toyota Camry,,4 cylinders,fwd,gas,3.4566,grey,,automatic,sedan,1,15995,9.680031800000002,2015,3,1.2402853999999999,0,0,0,0,los angeles,new
+453,$10800,los angeles,LA long beach,2015 toyota camry le 4dr sedan,,,,gas,4.963212966918945,,,automatic,,0,10800,9.2873011,2015,3,1.6020533000000001,1,0,1,0,los angeles,new
+454,$5900,los angeles,LA westside-southbay,2005 Toyota Camry XLE,good,4 cylinders,fwd,gas,14.5741,grey,mid-size,automatic,,0,5900,8.682707800000001,2005,13,2.6792458999999997,0,1,0,0,los angeles,old
+455,$9900,los angeles,LA long beach,2014 toyota camry le 4dr sedan,,,,gas,4.791686534881592,,,automatic,,0,9900,9.200289699999999,2014,4,1.5668825000000002,1,0,1,0,los angeles,new
+456,$3190,los angeles,LA san gabriel,2012 toyota camry,excellent,4 cylinders,fwd,gas,8.304973602294924,,,automatic,sedan,0,3190,8.0677757,2012,6,2.1168547,0,0,0,0,los angeles,new
+457,$226,los angeles,San Fernando,2014 Toyota Camry LE,,4 cylinders,fwd,gas,2.8122,,,automatic,sedan,1,226,5.4205350999999995,2014,4,1.0339671,1,0,0,0,los angeles,new
+458,$1400,los angeles,central LA,2001 toyota camry,,,,gas,16.201469421386722,,,automatic,,0,1400,7.244227400000001,2001,17,2.7851019,0,0,0,0,los angeles,old
+459,$2700,los angeles,central LA,2002 toyota camry,good,4 cylinders,,gas,13.045,,,automatic,,0,2700,7.9010072000000005,2002,16,2.5684049,0,0,0,0,los angeles,old
+460,$500,los angeles,LA westside-southbay,1999 toyota camry,excellent,4 cylinders,fwd,gas,17.01991844177246,,,automatic,,0,500,6.2146082,1999,19,2.8343844,0,0,0,0,los angeles,old
+461,$9600,los angeles,LA san gabriel,2011 toyota camry le 4dr sedan,good,4 cylinders,fwd,gas,5.0212,silver,full-size,automatic,sedan,0,9600,9.1695185,2011,7,1.6136688999999997,1,0,1,0,los angeles,new
+462,$2400,los angeles,San Fernando,2003 toyota camry le,excellent,4 cylinders,fwd,gas,19.5211,blue,full-size,automatic,sedan,0,2400,7.783224099999999,2003,15,2.9714959,1,0,0,0,los angeles,old
+463,$2200,los angeles,LA long beach,1998 toyota camry le,,,,gas,16.82425880432129,,,automatic,,0,2200,7.6962128,1998,20,2.8228218999999997,1,0,0,0,los angeles,old
+464,$15995,los angeles,San Fernando,2015 Toyota Camry,,4 cylinders,fwd,gas,3.6072,white,,automatic,sedan,1,15995,9.680031800000002,2015,3,1.2829318,0,0,0,0,los angeles,new
+465,$500,los angeles,LA san gabriel,1991 Toyota Camry,fair,4 cylinders,fwd,gas,21.7,white,mid-size,automatic,,0,500,6.2146082,1991,27,3.0773122,0,0,0,0,los angeles,old
+466,$5000,los angeles,North LA county,2010 toyota camry hybrid,good,4 cylinders,fwd,gas,37.0,,,automatic,sedan,0,5000,8.517192800000002,2010,8,3.6109178,0,0,0,1,los angeles,old
+467,$3900,los angeles,,2004 Toyota Camry,like new,6 cylinders,fwd,gas,21.7337,custom,,automatic,sedan,1,3900,8.2687321,2004,14,3.0788641,0,0,0,0,los angeles,old
+468,$5800,los angeles,North LA county,2007 toyota camry hybrid,like new,4 cylinders,,gas,11.626930236816412,,,automatic,SUV,0,5800,8.6656132,2007,11,2.4533241,0,0,0,1,los angeles,old
+469,$3700,los angeles,San Fernando,2003 toyota camry,excellent,4 cylinders,,gas,13.2,,,automatic,,0,3700,8.216088300000001,2003,15,2.5802169,0,0,0,0,los angeles,old
+470,$1100,los angeles,LA westside-southbay,2003 Toyota Camry Xle,,,,gas,14.08167171478272,,,automatic,,0,1100,7.0030656,2003,15,2.6448741,0,0,0,0,los angeles,old
+471,$7900,los angeles,San Fernando,2009 Toyota camry SE,like new,4 cylinders,,gas,11.7,,,automatic,,0,7900,8.974618,2009,9,2.4595887999999997,0,0,1,0,los angeles,old
+472,$6500,los angeles,central LA,2009 toyota camry le,like new,4 cylinders,,gas,12.8708,grey,full-size,automatic,sedan,0,6500,8.7795572,2009,9,2.5549612,1,0,0,0,los angeles,old
+473,$1502,los angeles,LA san gabriel,2009 toyota camry se,excellent,4 cylinders,fwd,gas,16.45036315917969,black,,automatic,,0,1502,7.3145527999999995,2009,9,2.8003476000000003,0,0,1,0,los angeles,old
+474,$2750,los angeles,LA westside-southbay,1991 toyota camry,,,,gas,15.3,,,automatic,wagon,0,2750,7.9193563,1991,27,2.7278528,0,0,0,0,los angeles,old
+475,$2000,los angeles,central LA,2004 toyota camry solara,,,,gas,20.1038,,,automatic,,0,2000,7.6009025999999995,2004,14,3.0009089,0,0,0,0,los angeles,old
+476,$4500,los angeles,San Fernando,2005 Toyota Camry LE,good,4 cylinders,,gas,12.1,white,,automatic,,0,4500,8.4118328,2005,13,2.4932055,1,0,0,0,los angeles,old
+477,$5300,los angeles,central LA,2007 toyota camry,excellent,4 cylinders,,gas,12.0,white,,automatic,sedan,0,5300,8.5754623,2007,11,2.4849067000000002,0,0,0,0,los angeles,old
+478,$11000,los angeles,LA long beach,2016 toyota camry le 4dr sedan,,,,gas,4.249044418334962,,,automatic,,0,11000,9.3056507,2016,2,1.4466941,1,0,1,0,los angeles,new
+479,$8500,los angeles,San Fernando,2011 Toyota Camry,excellent,4 cylinders,,gas,7.9,,,automatic,,0,8500,9.047821,2011,7,2.0668628,0,0,0,0,los angeles,new
+480,$2400,los angeles,central LA,2002 toyota camry,fair,6 cylinders,fwd,gas,18.3821,grey,full-size,automatic,sedan,0,2400,7.783224099999999,2002,16,2.9113773999999997,0,0,0,0,los angeles,old
+481,$7500,los angeles,LA san gabriel,2012 Toyota Camry se,,4 cylinders,,gas,8.304973602294924,,,automatic,,0,7500,8.922658,2012,6,2.1168547,0,0,1,0,los angeles,new
+482,$6000,los angeles,LA long beach,2009 toyota camry le,,,,gas,16.45036315917969,,,automatic,,0,6000,8.6995144,2009,9,2.8003476000000003,1,0,0,0,los angeles,old
+483,$1200,los angeles,central LA,2000 toyota camry,,,,gas,16.83345794677734,,,manual,sedan,0,1200,7.0900769,2000,18,2.8233685,0,0,0,0,los angeles,old
+484,$3950,los angeles,LA long beach,2004 toyota camry,,,,gas,18.0,,,automatic,,0,3950,8.2814713,2004,14,2.8903717999999996,0,0,0,0,los angeles,old
+485,$4500,los angeles,central LA,2008 toyota camry le,,,,gas,12.54811191558838,,,automatic,,0,4500,8.4118328,2008,10,2.5295701,1,0,0,0,los angeles,old
+486,$2900,los angeles,central LA,2004 Toyota Camry,,4 cylinders,,gas,19.4324,blue,,automatic,sedan,0,2900,7.972466000000001,2004,14,2.9669418,0,0,0,0,los angeles,old
+487,$7000,los angeles,San Fernando,2009 toyota camry,good,4 cylinders,,gas,10.0,grey,,automatic,sedan,0,7000,8.8536654,2009,9,2.3025851000000004,0,0,0,0,los angeles,old
+488,$3600,los angeles,San Fernando,2003 toyota camry le,,,,gas,14.08167171478272,,,automatic,,0,3600,8.1886892,2003,15,2.6448741,1,0,0,0,los angeles,old
+489,$3950,los angeles,LA san gabriel,2004 toyota camry,,,,gas,18.0,,,automatic,,0,3950,8.2814713,2004,14,2.8903717999999996,0,0,0,0,los angeles,old
+490,$2700,los angeles,San Fernando,2000 toyota camry,excellent,4 cylinders,,gas,16.83345794677734,brown,full-size,automatic,pickup,0,2700,7.9010072000000005,2000,18,2.8233685,0,0,0,0,los angeles,old
+491,$10500,los angeles,LA san gabriel,2013 TOYOTA CAMRY LE,like new,4 cylinders,fwd,gas,3.5092,black,full-size,automatic,sedan,0,10500,9.2591305,2013,5,1.2553881000000002,1,0,0,0,los angeles,new
+492,$1000,los angeles,central LA,2004 Toyota Camry Le FwD 210Hp,excellent,,fwd,gas,15.408045768737788,white,full-size,automatic,sedan,0,1000,6.9077554,2004,14,2.7348897,0,0,0,0,los angeles,old
+493,$7500,los angeles,San Fernando,2003 toyota camry le,like new,4 cylinders,,gas,3.2,green,compact,automatic,coupe,0,7500,8.922658,2003,15,1.1631508,1,0,0,0,los angeles,old
+494,$1600,los angeles,LA san gabriel,2008 toyota camry,like new,4 cylinders,,gas,15.3123,silver,,automatic,sedan,0,1600,7.377758999999999,2008,10,2.7286565,0,0,0,0,los angeles,old
+495,$5950,los angeles,LA westside-southbay,2006 toyota camry le,,,,gas,12.66718101501465,,,automatic,,0,5950,8.6911469,2006,12,2.5390146000000002,1,0,0,0,los angeles,old
+496,$2200,los angeles,LA long beach,1998 TOYOTA CAMRY,like new,,,gas,16.0,,,automatic,,0,2200,7.6962128,1998,20,2.7725887000000005,0,0,0,0,los angeles,old
+497,$11800,los angeles,LA san gabriel,2012 Toyota Camry,excellent,4 cylinders,rwd,gas,2.3,white,full-size,automatic,sedan,0,11800,9.375854499999999,2012,6,0.83290911,0,0,0,0,los angeles,new
+498,$2895,los angeles,LA san gabriel,1998 Toyota Camry LE 4 DR,excellent,4 cylinders,fwd,gas,18.374000000000002,brown,mid-size,automatic,sedan,0,2895,7.970740299999999,1998,20,2.9109366000000003,1,0,0,0,los angeles,old
+499,$7405,los angeles,LA westside-southbay,2008 Toyota Camry,,6 cylinders,fwd,gas,13.1306,grey,mid-size,automatic,sedan,1,7405,8.9099112,2008,10,2.5749454,0,0,0,0,los angeles,old
+500,$6700,los angeles,LA san gabriel,2007 Toyota Camry,,,,gas,12.2,,,automatic,,0,6700,8.8098631,2007,11,2.501436,0,0,0,0,los angeles,old
+501,$1200,los angeles,central LA,2000 toyota camry,new,6 cylinders,fwd,gas,16.83345794677734,black,full-size,manual,sedan,0,1200,7.0900769,2000,18,2.8233685,0,0,0,0,los angeles,old
+502,$3950,los angeles,North LA county,2004 toyota camry,,,,gas,18.0,,,automatic,,0,3950,8.2814713,2004,14,2.8903717999999996,0,0,0,0,los angeles,old
+503,$7500,los angeles,central LA,2003 toyota camry,like new,4 cylinders,,gas,3.2,green,,automatic,,0,7500,8.922658,2003,15,1.1631508,0,0,0,0,los angeles,old
+504,$4700,los angeles,LA long beach,2004 Toyota Camry SE,excellent,4 cylinders,fwd,gas,11.6,white,,automatic,sedan,0,4700,8.4553175,2004,14,2.451005,0,0,1,0,los angeles,old
+505,$4500,los angeles,central LA,2008 toyota camry,,,,gas,12.54811191558838,,,automatic,,0,4500,8.4118328,2008,10,2.5295701,0,0,0,0,los angeles,old
+506,$2900,los angeles,central LA,1999 Toyota CAMRY,excellent,6 cylinders,fwd,gas,10.2767,grey,full-size,automatic,sedan,0,2900,7.972466000000001,1999,19,2.3298793,0,0,0,0,los angeles,old
+507,$4000,los angeles,LA westside-southbay,2006 toyota camry solara,,,,gas,12.66718101501465,,,automatic,,0,4000,8.294049300000001,2006,12,2.5390146000000002,0,0,0,0,los angeles,old
+508,$3950,los angeles,San Fernando,2004 toyota camry,,,,gas,18.0,,,automatic,,0,3950,8.2814713,2004,14,2.8903717999999996,0,0,0,0,los angeles,old
+509,$11995,los angeles,San Fernando,2014 TOYOTA CAMRY SE SPORT,like new,4 cylinders,fwd,gas,10.3674,white,mid-size,automatic,sedan,1,11995,9.3922453,2014,4,2.3386662,0,0,1,0,los angeles,new
+510,$9900,los angeles,LA westside-southbay,2012 TOYOTA CAMRY SE,like new,4 cylinders,,gas,11.4512,red,full-size,automatic,sedan,1,9900,9.200289699999999,2012,6,2.4380946,0,0,1,0,los angeles,new
+511,$15999,los angeles,central LA,2016 TOYOTA CAMRY SE,like new,4 cylinders,fwd,gas,2.9122,black,full-size,automatic,sedan,0,15999,9.680281599999999,2016,2,1.0689088,0,0,1,0,los angeles,new
+512,$6500,los angeles,LA san gabriel,2007 toyota camry,good,6 cylinders,,gas,13.9,white,sub-compact,automatic,sedan,0,6500,8.7795572,2007,11,2.6318889,0,0,0,0,los angeles,old
+513,$3500,los angeles,LA westside-southbay,2004 toyota camry xle,good,,,gas,20.7,silver,,automatic,,0,3500,8.1605186,2004,14,3.0301337000000004,0,1,0,0,los angeles,old
+514,$5499,los angeles,San Fernando,2007 toyota camry,excellent,,,gas,10.0,,,automatic,,0,5499,8.6123219,2007,11,2.3025851000000004,0,0,0,0,los angeles,old
+515,$17000,los angeles,central LA,2017 toyota camry,like new,4 cylinders,fwd,gas,2.0,black,full-size,automatic,sedan,0,17000,9.7409687,2017,1,0.69314718,0,0,0,0,los angeles,new
+516,$5500,los angeles,LA long beach,2004 toyota camry xle,excellent,4 cylinders,,gas,11.5334,,,automatic,,0,5500,8.6125031,2004,14,2.4452472000000003,0,1,0,0,los angeles,old
+517,$9490,los angeles,San Fernando,2012 toyota camry LE,like new,4 cylinders,,gas,8.304973602294924,white,,automatic,,0,9490,9.157994300000002,2012,6,2.1168547,1,0,0,0,los angeles,new
+518,$1500,los angeles,San Fernando,1992 Toyota Camry,good,4 cylinders,fwd,gas,16.8,grey,mid-size,automatic,sedan,0,1500,7.3132205,1992,26,2.8213789,0,0,0,0,los angeles,old
+519,$2000,los angeles,LA westside-southbay,1999 toyota camry xle,fair,6 cylinders,fwd,gas,15.73,green,compact,automatic,sedan,0,2000,7.6009025999999995,1999,19,2.7555697,0,1,0,0,los angeles,old
+520,$3500,los angeles,San Fernando,2003 toyota camry,excellent,4 cylinders,,gas,14.08167171478272,white,,automatic,,0,3500,8.1605186,2003,15,2.6448741,0,0,0,0,los angeles,old
+521,$8299,los angeles,central LA,2009 Toyota Camry,,,,gas,16.45036315917969,,,automatic,,0,8299,9.0238905,2009,9,2.8003476000000003,0,0,0,0,los angeles,old
+522,$7800,los angeles,LA san gabriel,2010 toyota camry le,like new,4 cylinders,,gas,12.0,white,,automatic,sedan,0,7800,8.961878800000001,2010,8,2.4849067000000002,1,0,0,0,los angeles,old
+523,$4100,los angeles,San Fernando,2006 TOYOTA CAMRY SE,,6 cylinders,,gas,16.56,,,automatic,,0,4100,8.3187418,2006,12,2.8069901,0,0,1,0,los angeles,old
+524,$3950,los angeles,central LA,2004 toyota camry,,,,gas,18.0,,,automatic,,0,3950,8.2814713,2004,14,2.8903717999999996,0,0,0,0,los angeles,old
+525,$3800,los angeles,central LA,2004 toyota camry,good,4 cylinders,fwd,gas,11.6,silver,mid-size,automatic,sedan,0,3800,8.2427559,2004,14,2.451005,0,0,0,0,los angeles,old
+526,$8900,los angeles,San Fernando,2012 toyota camry le,,,,gas,8.304973602294924,,,automatic,,0,8900,9.0938063,2012,6,2.1168547,1,0,0,0,los angeles,new
+527,$2700,los angeles,LA long beach,2005 toyota camry le,,4 cylinders,,gas,19.0,,,automatic,,0,2700,7.9010072000000005,2005,13,2.9444388999999997,1,0,0,0,los angeles,old
+528,$14995,los angeles,LA westside-southbay,2016 TOYOTA CAMRY SE,good,4 cylinders,fwd,gas,6.5467,white,,automatic,sedan,1,14995,9.615471800000002,2016,2,1.8789611000000002,0,0,1,0,los angeles,new
+529,$16225,los angeles,LA westside-southbay,2015 Toyota Camry,like new,,fwd,gas,1.4319,white,,automatic,sedan,1,16225,9.694308300000001,2015,3,0.35900223,0,0,0,0,los angeles,new
+530,$1950,los angeles,LA san gabriel,2001 Toyota Camry le,,,,gas,22.8,,,automatic,,0,1950,7.5755849,2001,17,3.1267605,1,0,0,0,los angeles,old
+531,$1900,los angeles,central LA,1998 toyota camry,,,,gas,16.82425880432129,,,automatic,,0,1900,7.549609200000001,1998,20,2.8228218999999997,0,0,0,0,los angeles,old
+532,$2500,los angeles,San Fernando,2002 toyota camry,excellent,,,gas,14.32672119140625,,,automatic,,0,2500,7.8240460999999994,2002,16,2.6621262999999997,0,0,0,0,los angeles,old
+533,$7500,los angeles,central LA,2009 toyota camry le,excellent,4 cylinders,,gas,8.1,,,automatic,,0,7500,8.922658,2009,9,2.0918641,1,0,0,0,los angeles,old
+534,$8995,los angeles,North LA county,2008 Toyota Camry Solara,,,fwd,other,8.3133,white,,automatic,coupe,1,8995,9.1044245,2008,10,2.1178567000000004,0,0,0,0,los angeles,old
+535,$1500,los angeles,central LA,1996 toyota camry,excellent,,,gas,21.89999961853027,,,automatic,,0,1500,7.3132205,1996,22,3.0864866,0,0,0,0,los angeles,old
+536,$3500,los angeles,LA long beach,2003 toyota camry,good,4 cylinders,fwd,gas,16.2,black,full-size,automatic,sedan,0,3500,8.1605186,2003,15,2.7850113,0,0,0,0,los angeles,old
+537,$6000,los angeles,San Fernando,2008 Toyota Camry Hybrid,good,4 cylinders,fwd,hybrid,12.2,white,full-size,automatic,sedan,0,6000,8.6995144,2008,10,2.501436,0,0,0,1,los angeles,old
+538,$8495,los angeles,LA san gabriel,2007 Toyota Camry,excellent,,,gas,5.3,grey,,automatic,sedan,0,8495,9.047232600000001,2007,11,1.6677068,0,0,0,0,los angeles,old
+539,$2300,los angeles,central LA,1999 toyota camry,excellent,4 cylinders,fwd,gas,12.4,white,compact,automatic,sedan,0,2300,7.7406645,1999,19,2.5176964,0,0,0,0,los angeles,old
+540,$14900,los angeles,San Fernando,2014 toyota camry,excellent,4 cylinders,fwd,gas,7.3,white,mid-size,automatic,sedan,0,14900,9.6091166,2014,4,1.9878744,0,0,0,0,los angeles,new
+541,$7500,los angeles,central LA,2009 toyota camry,,4 cylinders,,gas,8.1,,,automatic,,0,7500,8.922658,2009,9,2.0918641,0,0,0,0,los angeles,old
+542,$361,los angeles,LA westside-southbay,2017 toyota camry hybrid,new,4 cylinders,rwd,hybrid,0.07,red,mid-size,automatic,sedan,0,361,5.888877900000001,2017,1,-2.6592599999999997,0,0,0,1,los angeles,new
+543,$1500,los angeles,North LA county,2001 toyota camry,excellent,6 cylinders,,gas,27.0,,,automatic,,0,1500,7.3132205,2001,17,3.2958369,0,0,0,0,los angeles,old
+544,$1,los angeles,North LA county,2004 toyota camry,like new,,,gas,11.3,,,manual,,0,1,0.0,2004,14,2.4248027999999997,0,0,0,0,los angeles,old
+545,$6800,los angeles,central LA,2012 toyota camry se,excellent,4 cylinders,,gas,8.304973602294924,,,automatic,,0,6800,8.8246775,2012,6,2.1168547,0,0,1,0,los angeles,new
+546,$2000,los angeles,central LA,2008 TOYOTA CAMRY,,,,gas,12.54811191558838,,,automatic,,0,2000,7.6009025999999995,2008,10,2.5295701,0,0,0,0,los angeles,old
+547,$2700,los angeles,San Fernando,2002 toyota camry,excellent,4 cylinders,,gas,16.1,,,automatic,,0,2700,7.9010072000000005,2002,16,2.7788193,0,0,0,0,los angeles,old
+548,$1400,los angeles,central LA,2001 Toyota Camry,,,,gas,16.201469421386722,,,automatic,,0,1400,7.244227400000001,2001,17,2.7851019,0,0,0,0,los angeles,old
