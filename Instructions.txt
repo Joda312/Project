@@ -1,4 +1,4 @@
-Here are short instructions on how to reproduce the work done on this particular project:
+Here are short instructions on how to reproduce the work done on this project:
 
 1) Import the dataset into Python using the following URL: "https://osf.io/7gvz9//download" (for that purpose, pre-install Pandas if do not have it already installed)
 
