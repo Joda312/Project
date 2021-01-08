@@ -1,7 +1,13 @@
 Here are short instructions on how to reproduce the work done on this particular project:
 
 1) Import the dataset into Python using the following URL: "https://osf.io/7gvz9//download" (for that purpose, pre-install Pandas if do not have it already installed)
+
 2) Perform the necessary coding work in Python (as shown in the "cars.ipynb" and "cars.py" files)
+
 3) Export the derived dataset as .csv file 
+
 4) Import the dataset derived from Python into Stata using the "import delimited ..." command (the command for reading 'comma-separated values' files into Stata).
+
 5) Perform the necessary data processing and regression analysis in Stata. Export and save the output in the form of regression tables and graphs. 
+
+6) There is a master do file as well (called masterfile.do) even though there are only two do-files in this smaller project. 
