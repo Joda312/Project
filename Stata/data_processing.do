@@ -10,10 +10,6 @@ keep v1 price odometer area condition fuel hybrid old_new
 
 * taking care of missing values in the dataset
 misstable sum, all
-
-* help msdec 
-* installing msdec for a more detailed look at missing values 
-* ssc install mdesc - I commented it out once installed (not to rerun the code every time)
 mdesc
 
 * getting rid of missing values
