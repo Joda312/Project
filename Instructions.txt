@@ -10,4 +10,6 @@ Here are short instructions on how to reproduce the work done on this project:
 
 5) Perform the necessary data processing and regression analysis in Stata. Export and save the output in the form of regression tables and graphs. 
 
-6) There is a master do file as well (called masterfile.do) even though there are only two do-files in this smaller project. 
+6) There is a master do file as well (called masterfile.do) even though there are only three do-files in this smaller project. 
+
+7) Please note that you need to run the do-file "install.do" only once in case you do not have the command 'mdesc' already installed in your version of Stata. 
